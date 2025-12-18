@@ -1,0 +1,744 @@
+id,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,Unnamed: 25_level_0,Unnamed: league,Unnamed: season
+,Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches,league,season
+1339039e,1,Liel Abada,ISR,FW,Charlotte,22-301,2001,12.1,4,35,19,54.3,2.89,1.57,0.11,0.21,16.4,0,0,0,4.6,4.6,0.13,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+509eb2dc,2,Jose Casas de Abadal,USA,"FW,DF",Inter Miami,24-040,2000,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+1f462f95,3,Luis Abram,PER,DF,Atlanta Utd,28-154,1996,11.5,0,8,1,12.5,0.69,0.09,0.0,0.0,9.4,0,0,0,0.7,0.7,0.09,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+4a67f05b,4,Lalas Abubakar,GHA,DF,Rapids,29-218,1994,7.7,0,3,0,0.0,0.39,0.0,0.0,,7.4,0,0,0,0.3,0.3,0.1,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+ece10cfe,5,Kellyn Acosta,USA,MF,Fire,29-006,1995,19.7,2,19,5,26.3,0.96,0.25,0.11,0.4,26.2,3,0,0,1.0,1.0,0.05,1.0,1.0,Matches,USA-Major League Soccer,24-25
+363ba6d7,6,Luciano Acosta,ARG,MF,FC Cincinnati,30-060,1994,22.6,11,61,20,32.8,2.7,0.89,0.15,0.45,20.9,10,2,3,8.2,5.8,0.1,2.8,3.2,Matches,USA-Major League Soccer,24-25
+f1e19fad,7,Jordan Adebayo-Smith,NGA,"FW,MF",Minnesota Utd,24-201,2000,2.8,0,5,3,60.0,1.77,1.06,0.0,0.0,14.3,0,0,0,0.4,0.4,0.08,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+7f2309be,8,Sam Adekugbe,CAN,"MF,FW",Vancouver W'caps,29-196,1995,3.1,0,3,0,0.0,0.97,0.0,0.0,,12.4,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+86429529,9,Samuel Adeniran,USA,FW,Philadelphia,25-304,1998,0.3,0,3,1,33.3,9.0,3.0,0.0,0.0,12.0,0,0,0,0.6,0.6,0.2,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+86429529,10,Samuel Adeniran,USA,"FW,MF",St. Louis,25-304,1998,6.6,2,26,6,23.1,3.93,0.91,0.08,0.33,16.6,0,0,0,2.2,2.2,0.09,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+06e75d19,11,Leonardo Afonso,BRA,"FW,MF",Inter Miami,23-017,2001,2.7,2,5,2,40.0,1.82,0.73,0.4,1.0,15.9,0,0,0,0.7,0.7,0.14,1.3,1.3,Matches,USA-Major League Soccer,24-25
+cea02b5b,12,Stephen Afrifa,CAN,"FW,MF",Sporting KC,23-162,2001,4.7,3,15,4,26.7,3.21,0.86,0.2,0.75,15.6,0,0,0,1.7,1.7,0.11,1.3,1.3,Matches,USA-Major League Soccer,24-25
+d2275b1b,13,William Agada,NGA,FW,Sporting KC,24-317,1999,14.1,9,64,22,34.4,4.54,1.56,0.14,0.41,13.9,0,0,1,11.0,10.2,0.16,-2.0,-1.2,Matches,USA-Major League Soccer,24-25
+ecc5063f,14,Daniel Aguirre,USA,"MF,FW",LA Galaxy,25-028,1999,1.2,0,3,0,0.0,2.52,0.0,0.0,,14.1,0,0,0,0.3,0.3,0.11,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+d987142b,15,Patrick Agyemang,USA,FW,Charlotte,23-266,2000,17.0,7,45,17,37.8,2.65,1.0,0.16,0.41,12.8,0,0,0,6.3,6.3,0.14,0.7,0.7,Matches,USA-Major League Soccer,24-25
+540a5be1,16,Ali Ahmed,CAN,"MF,DF",Vancouver W'caps,23-294,2000,12.4,1,11,3,27.3,0.89,0.24,0.09,0.33,17.1,0,0,0,0.6,0.6,0.05,0.4,0.4,Matches,USA-Major League Soccer,24-25
+840f67fe,17,Forster Ajago,GHA,FW,Nashville,22-349,2001,3.4,0,7,3,42.9,2.04,0.87,0.0,0.0,15.9,0,0,0,1.0,1.0,0.14,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+f2a68b97,18,Carlos Akapo,EQG,DF,SJ Earthquakes,31-140,1993,12.0,0,8,2,25.0,0.67,0.17,0.0,0.0,19.2,0,0,0,0.8,0.8,0.09,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+cfed08d5,19,Matai Akinmboni,USA,DF,D.C. United,17-287,2006,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+214d2406,20,Ayo Akinola,CAN,"FW,MF",Toronto FC,24-192,2000,1.0,0,2,0,0.0,2.07,0.0,0.0,,9.8,0,0,0,0.3,0.3,0.17,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+4601e194,21,Jordi Alba,ESP,DF,Inter Miami,35-131,1989,17.6,4,14,6,42.9,0.8,0.34,0.29,0.67,20.4,0,0,0,1.7,1.7,0.12,2.3,2.3,Matches,USA-Major League Soccer,24-25
+043f389a,22,Noah Allen,USA,DF,Inter Miami,20-093,2004,6.4,0,1,0,0.0,0.16,0.0,0.0,,10.9,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+78506575,23,Rasmus Alm,SWE,"FW,MF",St. Louis,28-348,1995,6.0,1,7,1,14.3,1.16,0.17,0.14,1.0,19.4,0,0,0,0.3,0.3,0.04,0.7,0.7,Matches,USA-Major League Soccer,24-25
+27f33438,24,Thiago Almada,ARG,"MF,FW",Atlanta Utd,23-095,2001,15.5,6,52,18,34.6,3.36,1.16,0.08,0.22,22.3,7,2,2,5.7,4.1,0.08,0.3,-0.1,Matches,USA-Major League Soccer,24-25
+e2e96950,25,Fernando Álvarez,COL,DF,CF Montréal,20-341,2003,16.7,1,4,1,25.0,0.24,0.06,0.25,1.0,13.2,0,0,0,0.3,0.3,0.09,0.7,0.7,Matches,USA-Major League Soccer,24-25
+2e8bd00c,26,Frankie Amaya,USA,MF,NY Red Bulls,23-308,2000,17.9,1,21,9,42.9,1.18,0.5,0.05,0.11,26.6,0,0,0,0.9,0.9,0.04,0.1,0.1,Matches,USA-Major League Soccer,24-25
+83b6e15d,27,Malte Amundsen,DEN,DF,Crew,26-170,1998,17.1,0,2,0,0.0,0.12,0.0,0.0,,15.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+c76e16c1,28,Markus Anderson,USA,"MF,FW",Philadelphia,20-232,2003,1.1,0,2,0,0.0,1.86,0.0,0.0,,8.6,0,0,0,0.3,0.3,0.15,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+3a9911ce,29,Sebastian Anderson,USA,DF,Rapids,21-357,2002,4.6,0,1,0,0.0,0.22,0.0,0.0,,4.3,0,0,0,0.1,0.1,0.11,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+c8364e8e,30,José Andrés Martínez,VEN,MF,Philadelphia,29-358,1994,11.3,0,14,4,28.6,1.24,0.35,0.0,0.0,29.7,0,0,0,0.3,0.3,0.02,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+c7230a25,31,Tomas Ángel,COL,"FW,MF",LAFC,21-161,2003,0.6,1,4,1,25.0,7.06,1.76,0.25,1.0,13.5,0,0,0,1.4,1.4,0.35,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+55a5d959,32,Iván Angulo,COL,"FW,MF",Orlando City,25-130,1999,23.0,3,23,7,30.4,1.0,0.3,0.13,0.43,14.8,0,0,0,3.7,3.7,0.16,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+cffc5348,33,Eugene Ansah,GHA,"FW,MF",FC Dallas,29-227,1994,4.8,1,13,7,53.8,2.73,1.47,0.08,0.14,18.0,0,0,0,1.2,1.2,0.1,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+6396308d,34,Conner Antley,USA,DF,D.C. United,29-130,1995,4.8,0,2,0,0.0,0.41,0.0,0.0,,10.5,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+6a2381f7,35,Antony,BRA,"FW,MF",Portland Timbers,22-326,2001,15.4,4,27,10,37.0,1.75,0.65,0.15,0.4,18.0,0,0,0,3.2,3.2,0.12,0.8,0.8,Matches,USA-Major League Soccer,24-25
+17b28ec7,36,Brian Anunga,CMR,MF,Nashville,27-355,1996,10.3,0,4,0,0.0,0.39,0.0,0.0,,23.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+fea9401e,37,Cristian Arango,COL,"FW,MF",RSL,29-143,1995,20.6,17,95,35,36.8,4.61,1.7,0.16,0.43,18.0,2,2,2,13.2,11.6,0.12,3.8,3.4,Matches,USA-Major League Soccer,24-25
+3ed214ff,38,César Araujo,URU,MF,Orlando City,23-119,2001,19.2,1,18,1,5.6,0.94,0.05,0.06,1.0,20.6,2,0,0,1.2,1.2,0.07,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+cd891b5b,39,Miguel Araujo,PER,DF,Portland Timbers,29-280,1994,11.8,0,5,1,20.0,0.42,0.08,0.0,0.0,11.1,0,0,0,0.6,0.6,0.11,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+b1313ec4,40,Scott Arfield,CAN,"MF,FW",Charlotte,35-272,1988,4.2,0,7,2,28.6,1.65,0.47,0.0,0.0,18.4,1,0,0,0.6,0.6,0.08,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+668f881e,41,Maximilian Arfsten,USA,DF,Crew,23-102,2001,14.3,3,30,11,36.7,2.1,0.77,0.1,0.27,16.2,2,0,0,2.5,2.5,0.08,0.5,0.5,Matches,USA-Major League Soccer,24-25
+dbb2db3d,42,Allan Arigoni,SUI,DF,Fire,25-269,1998,21.3,1,14,4,28.6,0.66,0.19,0.07,0.25,18.2,0,0,0,0.7,0.7,0.05,0.3,0.3,Matches,USA-Major League Soccer,24-25
+078b2c07,43,Daniel Armando Ríos,MEX,FW,Atlanta Utd,29-159,1995,10.9,6,29,15,51.7,2.65,1.37,0.21,0.4,13.9,0,0,1,4.8,4.0,0.14,1.2,2.0,Matches,USA-Major League Soccer,24-25
+7f2b7640,44,Xavier Arreaga,ECU,DF,NE Revolution,29-306,1994,13.5,0,8,3,37.5,0.59,0.22,0.0,0.0,12.2,0,0,0,1.0,1.0,0.13,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+7f2b7640,45,Xavier Arreaga,ECU,DF,Seattle,29-306,1994,2.8,0,1,0,0.0,0.35,0.0,0.0,,9.7,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+4f8a9f70,46,Kervin Arriaga,HON,"DF,MF",Minnesota Utd,26-207,1998,9.8,3,16,4,25.0,1.64,0.41,0.19,0.75,18.1,4,0,0,0.8,0.8,0.05,2.2,2.2,Matches,USA-Major League Soccer,24-25
+1bb2acce,47,Paul Arriola,USA,"DF,MF",FC Dallas,29-176,1995,19.8,3,29,13,44.8,1.47,0.66,0.07,0.15,19.6,0,1,1,2.8,2.0,0.07,0.2,0.0,Matches,USA-Major League Soccer,24-25
+ea6803c7,48,Artur,BRA,MF,Dynamo FC,28-141,1996,23.9,0,22,8,36.4,0.92,0.33,0.0,0.0,25.2,0,0,0,1.1,1.1,0.05,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+a444689a,49,Yamil Asad,ARG,DF,FC Cincinnati,30-003,1994,5.4,2,13,7,53.8,2.43,1.31,0.15,0.29,17.9,0,0,0,0.9,0.9,0.07,1.1,1.1,Matches,USA-Major League Soccer,24-25
+218d336c,50,Dairon Asprilla,COL,"FW,DF",Portland Timbers,32-066,1992,7.6,1,9,2,22.2,1.18,0.26,0.11,0.5,18.0,0,0,0,0.7,0.7,0.08,0.3,0.3,Matches,USA-Major League Soccer,24-25
+1f084637,51,Joshua Atencio,USA,MF,Seattle,22-181,2002,9.3,0,21,5,23.8,2.26,0.54,0.0,0.0,19.6,0,0,0,1.1,1.1,0.05,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+60990b81,52,Eduard Atuesta,COL,MF,LAFC,27-042,1997,20.8,2,28,9,32.1,1.34,0.43,0.07,0.22,20.7,4,0,0,2.5,2.5,0.09,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+4223d7bb,53,Julián Aude,ARG,DF,LA Galaxy,21-128,2003,18.0,1,12,2,16.7,0.67,0.11,0.08,0.5,21.0,0,0,0,0.7,0.7,0.07,0.3,0.3,Matches,USA-Major League Soccer,24-25
+f51b9ae1,54,Tomás Avilés,ARG,DF,Inter Miami,20-178,2004,19.0,0,7,2,28.6,0.37,0.11,0.0,0.0,16.0,0,0,0,0.5,0.5,0.08,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+06dafc0e,55,David Ayala,ARG,MF,Portland Timbers,22-004,2002,10.0,0,8,1,12.5,0.8,0.1,0.0,0.0,25.0,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+fe0f4e7f,56,Hugo Bacharach,ESP,DF,Minnesota Utd,23-003,2001,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2d0d1442,57,Corey Baird,USA,"FW,MF",FC Cincinnati,28-182,1996,9.9,2,17,6,35.3,1.72,0.61,0.12,0.33,12.0,0,0,0,2.8,2.8,0.16,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+dff24174,58,Esmir Bajraktarevic,USA,"FW,MF",NE Revolution,19-142,2005,16.1,2,29,13,44.8,1.8,0.81,0.07,0.15,18.0,0,0,0,1.4,1.4,0.05,0.6,0.6,Matches,USA-Major League Soccer,24-25
+fdffba5d,59,Cody Baker,USA,"DF,MF",Seattle,20-205,2004,5.3,0,1,0,0.0,0.19,0.0,0.0,,27.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,USA-Major League Soccer,24-25
+816d7aec,60,Reed Baker-Whiting,USA,"DF,FW",Seattle,19-121,2005,5.9,0,4,1,25.0,0.67,0.17,0.0,0.0,19.1,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+8b379fcd,61,Monsef Bakrar,ALG,FW,NYCFC,23-199,2001,13.2,3,48,16,33.3,3.63,1.21,0.06,0.19,13.9,0,0,0,5.3,5.3,0.11,-2.3,-2.3,Matches,USA-Major League Soccer,24-25
+894b41c5,62,Michael Baldisimo,PHI,MF,SJ Earthquakes,24-108,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4abe30fa,63,Fidel Barajas,MEX,FW,RSL,18-116,2006,6.3,0,16,6,37.5,2.55,0.96,0.0,0.0,18.2,0,0,0,1.1,1.1,0.07,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+18a8e594,64,Tai Baribo,ISR,FW,Philadelphia,26-197,1998,7.0,6,21,9,42.9,2.98,1.28,0.29,0.67,10.7,0,0,0,4.9,4.9,0.24,1.1,1.1,Matches,USA-Major League Soccer,24-25
+da4821de,65,Tom Barlow,USA,"FW,MF",Fire,29-022,1995,5.0,0,15,4,26.7,3.0,0.8,0.0,0.0,14.9,0,0,0,2.2,2.2,0.15,-2.2,-2.2,Matches,USA-Major League Soccer,24-25
+c90615e6,66,Lucas Bartlett,USA,DF,D.C. United,27-004,1997,22.4,1,18,4,22.2,0.8,0.18,0.06,0.25,8.9,0,0,0,1.9,1.9,0.1,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+552898bd,67,Ethan Bartlow,USA,DF,Dynamo FC,24-179,2000,8.4,0,3,0,0.0,0.36,0.0,0.0,,13.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+2c8da8a1,68,Cole Bassett,USA,MF,Rapids,23-002,2001,25.8,9,62,20,32.3,2.4,0.77,0.13,0.4,17.2,4,1,1,6.0,5.0,0.08,3.0,3.0,Matches,USA-Major League Soccer,24-25
+ced1d98f,69,Amine Bassi,FRA,MF,Dynamo FC,26-246,1997,20.0,2,45,14,31.1,2.25,0.7,0.04,0.14,21.5,1,0,0,4.6,4.6,0.1,-2.6,-2.6,Matches,USA-Major League Soccer,24-25
+6297d826,70,Zorhan Bassong,CAN,"DF,MF",Sporting KC,25-084,1999,7.9,0,2,0,0.0,0.25,0.0,0.0,,24.7,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+733aa9ec,71,Josh Bauer,USA,DF,Nashville,26-008,1998,16.6,0,8,1,12.5,0.48,0.06,0.0,0.0,9.0,0,0,0,1.5,1.5,0.19,-1.5,-1.5,Matches,USA-Major League Soccer,24-25
+3f1b018e,72,Tanner Beason,USA,DF,SJ Earthquakes,27-129,1997,13.8,0,6,1,16.7,0.43,0.07,0.0,0.0,11.4,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+fc2d3741,73,Gavin Beavers,USA,GK,RSL,19-092,2005,7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+9a6f8dfd,74,Alejandro Bedoya,USA,MF,Philadelphia,37-092,1987,11.8,2,17,8,47.1,1.44,0.68,0.12,0.25,13.0,0,0,0,1.4,1.4,0.08,0.6,0.6,Matches,USA-Major League Soccer,24-25
+658a3134,75,Jon Bell,JAM,DF,Seattle,26-339,1997,4.9,1,2,1,50.0,0.41,0.21,0.5,1.0,10.3,0,0,0,0.1,0.1,0.04,0.9,0.9,Matches,USA-Major League Soccer,24-25
+9d4677d7,76,Matthew Bell,JAM,FW,RSL,21-338,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+bc307884,77,Ben Bender,USA,"MF,FW",Charlotte,23-145,2001,2.2,1,4,4,100.0,1.86,1.86,0.25,0.25,20.8,0,0,0,0.2,0.2,0.04,0.8,0.8,Matches,USA-Major League Soccer,24-25
+ab070c55,78,Christian Benteke,BEL,FW,D.C. United,33-240,1990,20.2,16,67,31,46.3,3.31,1.53,0.21,0.45,11.3,0,2,2,13.2,11.6,0.18,2.8,2.4,Matches,USA-Major League Soccer,24-25
+5ea43134,79,Nimfasha Berchimas,USA,"FW,MF",Charlotte,16-159,2008,0.3,0,1,1,100.0,3.91,3.91,0.0,0.0,22.8,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f33ee427,80,Sebastian Berhalter,USA,"MF,DF",Vancouver W'caps,23-074,2001,12.3,2,20,5,25.0,1.63,0.41,0.1,0.4,21.0,4,0,0,1.5,1.5,0.07,0.5,0.5,Matches,USA-Major League Soccer,24-25
+ee93c1a9,81,Federico Bernardeschi,ITA,"DF,MF",Toronto FC,30-165,1994,22.4,8,79,29,36.7,3.52,1.29,0.1,0.28,20.8,4,0,3,6.9,4.4,0.06,1.1,3.6,Matches,USA-Major League Soccer,24-25
+a5532e80,82,Miguel Berry,ESP,FW,LA Galaxy,26-318,1997,7.4,2,7,3,42.9,0.95,0.41,0.29,0.67,11.1,0,0,0,1.7,1.7,0.24,0.3,0.3,Matches,USA-Major League Soccer,24-25
+35835637,83,Alessandro Biello,CAN,MF,CF Montréal,18-114,2006,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+26637ac8,84,Steve Birnbaum,USA,DF,D.C. United,33-189,1991,3.8,0,2,0,0.0,0.52,0.0,0.0,,14.1,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+02c7236e,85,Guilherme Biro,BRA,DF,Austin,24-090,2000,17.4,2,12,3,25.0,0.69,0.17,0.17,0.67,17.3,1,0,0,0.9,0.9,0.08,1.1,1.1,Matches,USA-Major League Soccer,24-25
+7f35d14e,86,Tristan Blackmon,USA,DF,Vancouver W'caps,27-353,1996,14.0,0,7,1,14.3,0.5,0.07,0.0,0.0,11.1,0,0,0,0.7,0.7,0.09,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+b3b21a11,87,Andre Blake,JAM,GK,Philadelphia,33-252,1990,5.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+5153d32e,88,Latif Blessing,GHA,"FW,MF",Dynamo FC,27-213,1996,8.1,5,12,6,50.0,1.47,0.74,0.42,0.83,11.9,0,0,0,3.8,3.8,0.31,1.2,1.2,Matches,USA-Major League Soccer,24-25
+a79b9e17,89,Njabulo Blom,RSA,MF,St. Louis,24-232,1999,9.7,1,3,2,66.7,0.31,0.21,0.33,0.5,24.2,0,0,0,0.1,0.1,0.02,0.9,0.9,Matches,USA-Major League Soccer,24-25
+25f77a5f,90,Emmanuel Boateng,GHA,FW,NE Revolution,30-195,1994,4.2,2,7,4,57.1,1.65,0.94,0.29,0.5,15.5,0,0,0,0.9,0.9,0.13,1.1,1.1,Matches,USA-Major League Soccer,24-25
+a2c1d8c2,91,Mateusz Bogusz,POL,"FW,MF",LAFC,22-343,2001,22.4,13,66,32,48.5,2.94,1.43,0.2,0.41,19.1,4,0,0,7.0,7.0,0.11,6.0,6.0,Matches,USA-Major League Soccer,24-25
+c2f23fc8,92,Moïse Bombito,CAN,DF,Rapids,24-122,2000,17.2,2,11,5,45.5,0.64,0.29,0.18,0.4,12.7,0,0,0,0.9,0.9,0.08,1.1,1.1,Matches,USA-Major League Soccer,24-25
+aa28a396,93,Alex Bono,USA,GK,D.C. United,30-096,1994,20.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+d338191d,94,Shanyder Borgelin,HAI,"FW,MF",Inter Miami,22-285,2001,1.5,0,3,0,0.0,1.97,0.0,0.0,,11.4,0,0,0,0.6,0.6,0.2,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+a72d14de,95,Dylan Borrero,COL,FW,NE Revolution,22-207,2002,5.6,0,18,7,38.9,3.23,1.25,0.0,0.0,21.1,0,0,0,0.9,0.9,0.05,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+0b0cbe5b,96,Denis Bouanga,GAB,FW,LAFC,29-262,1994,23.8,16,113,34,30.1,4.75,1.43,0.08,0.26,19.1,4,7,7,17.5,12.0,0.11,-1.5,-3.0,Matches,USA-Major League Soccer,24-25
+0672f944,97,Ousseni Bouda,BFA,"FW,DF",SJ Earthquakes,24-093,2000,0.9,0,4,0,0.0,4.29,0.0,0.0,,16.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+a025b8fb,98,Aaron Boupendza,GAB,"FW,MF",FC Cincinnati,27-358,1996,6.1,2,18,9,50.0,2.93,1.46,0.11,0.22,19.1,1,0,0,2.3,2.3,0.13,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+51029ad2,99,Giuseppe Bovalina,AUS,"DF,FW",Vancouver W'caps,19-262,2004,1.8,0,8,3,37.5,4.42,1.66,0.0,0.0,18.9,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+6bfa0d3a,100,Michael Boxall,NZL,DF,Minnesota Utd,35-347,1988,23.5,1,9,2,22.2,0.38,0.09,0.11,0.5,13.3,0,0,0,1.7,1.7,0.19,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+f4b1e26f,101,Tyler Boyd,USA,"FW,MF",Nashville,29-213,1994,12.6,2,17,8,47.1,1.35,0.64,0.12,0.25,18.3,0,0,0,1.9,1.9,0.11,0.1,0.1,Matches,USA-Major League Soccer,24-25
+a71768a2,102,Christopher Brady,USA,GK,Fire,20-149,2004,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+503da80e,103,Alejandro Bran,CRC,MF,Minnesota Utd,23-147,2001,4.8,1,8,2,25.0,1.67,0.42,0.13,0.5,25.8,0,0,0,0.8,0.8,0.1,0.2,0.2,Matches,USA-Major League Soccer,24-25
+5619c5e8,104,Claudio Bravo,ARG,DF,Portland Timbers,27-139,1997,12.4,0,8,0,0.0,0.65,0.0,0.0,,21.6,0,0,0,0.2,0.2,0.02,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+fd594b15,105,David Brekalo,SVN,DF,Orlando City,25-240,1998,11.1,1,6,3,50.0,0.54,0.27,0.17,0.33,8.9,0,0,0,1.0,1.0,0.16,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f6f4f7f0,106,Luke Brennan,USA,FW,Atlanta Utd,19-157,2005,1.2,0,1,0,0.0,0.86,0.0,0.0,,4.7,0,0,0,0.3,0.3,0.3,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+52e7f812,107,Sebastian Breza,CAN,GK,CF Montréal,26-137,1998,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+83b115d4,108,Yannick Bright,ITA,MF,Inter Miami,22-331,2001,8.3,0,3,0,0.0,0.36,0.0,0.0,,21.2,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+33e46323,109,Andrew Brody,USA,DF,RSL,29-088,1995,20.2,0,4,1,25.0,0.2,0.05,0.0,0.0,14.1,0,0,0,0.3,0.3,0.09,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+bd4460b1,110,Brandt Bronico,USA,MF,Charlotte,29-040,1995,11.8,1,12,3,25.0,1.02,0.25,0.08,0.33,14.0,0,0,0,1.4,1.4,0.12,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+3d14c62e,111,Javain Brown,JAM,DF,Vancouver W'caps,25-143,1999,10.8,0,9,4,44.4,0.84,0.37,0.0,0.0,11.0,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+e947ee4a,112,Gastón Brugman,URU,MF,LA Galaxy,31-327,1992,9.5,0,17,4,23.5,1.79,0.42,0.0,0.0,24.7,3,0,0,1.0,1.0,0.06,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+3235182a,113,Pavel Bucha,CZE,MF,FC Cincinnati,26-141,1998,24.5,4,34,9,26.5,1.39,0.37,0.12,0.44,20.9,0,0,0,2.2,2.2,0.06,1.8,1.8,Matches,USA-Major League Soccer,24-25
+3d47c1ad,114,Noel Buck,ENG,"MF,FW",NE Revolution,19-116,2005,6.0,1,4,2,50.0,0.67,0.34,0.25,0.5,18.0,0,0,0,0.4,0.4,0.09,0.6,0.6,Matches,USA-Major League Soccer,24-25
+eab85789,115,Osman Bukari,GHA,FW,Austin,25-230,1998,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+3077fce8,116,Teal Bunbury,USA,FW,Nashville,34-154,1990,9.9,3,16,3,18.8,1.62,0.3,0.06,0.33,14.5,0,2,2,3.1,1.5,0.1,-0.1,-0.5,Matches,USA-Major League Soccer,24-25
+39fde61c,117,Cory Burke,JAM,FW,NY Red Bulls,32-215,1991,2.2,1,8,4,50.0,3.69,1.85,0.13,0.25,15.6,0,0,0,1.2,1.2,0.15,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+9d12e142,118,Roman Bürki,SUI,GK,St. Louis,33-259,1990,23.3,0,1,0,0.0,0.04,0.0,0.0,,39.2,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches,USA-Major League Soccer,24-25
+69a57596,119,Evan Bush,USA,GK,Crew,38-146,1986,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+5ab0ea87,120,Sergio Busquets,ESP,"MF,DF",Inter Miami,36-014,1988,21.3,1,2,2,100.0,0.09,0.09,0.5,0.5,8.8,0,0,0,0.3,0.3,0.13,0.7,0.7,Matches,USA-Major League Soccer,24-25
+9fcd12af,121,Brandon Bye,USA,DF,NE Revolution,28-244,1995,3.2,0,2,0,0.0,0.62,0.0,0.0,,17.1,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+c4041fbc,122,Nathan Byrne,ENG,DF,Charlotte,32-055,1992,22.0,0,4,1,25.0,0.18,0.05,0.0,0.0,26.6,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+42af215b,123,Kevin Cabral,FRA,FW,Rapids,25-020,1999,14.3,5,31,12,38.7,2.17,0.84,0.16,0.42,13.1,0,0,0,6.1,6.1,0.2,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+e94d79e3,124,Martín Cáceres,URU,DF,LA Galaxy,37-114,1987,11.9,0,4,3,75.0,0.34,0.25,0.0,0.0,10.7,0,0,0,0.4,0.4,0.11,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+6d526838,125,Noel Caliskan,GER,MF,RSL,23-336,2000,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c4d9567d,126,Drake Callender,USA,GK,Inter Miami,26-297,1997,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+6ad16d47,127,Rudy Camacho,FRA,DF,Crew,33-147,1991,18.0,1,8,2,25.0,0.44,0.11,0.13,0.5,11.8,0,0,0,0.4,0.4,0.05,0.6,0.6,Matches,USA-Major League Soccer,24-25
+bf9c0749,128,Leonardo Campana,ECU,FW,Inter Miami,24-006,2000,11.8,5,29,12,41.4,2.45,1.02,0.17,0.42,14.2,1,0,0,5.3,5.3,0.19,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+45e1a597,129,George Campbell,USA,DF,CF Montréal,23-038,2001,15.6,0,5,0,0.0,0.32,0.0,0.0,,14.4,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+2a5ee788,130,Omar Campos,MEX,"DF,MF",LAFC,22-010,2002,11.8,0,2,1,50.0,0.17,0.08,0.0,0.0,25.1,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+d4438745,131,Nathan Cardoso,BRA,DF,Seattle,29-078,1995,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+cab97dd2,132,Wikelman Carmona,VEN,MF,NY Red Bulls,21-157,2003,17.6,3,37,15,40.5,2.1,0.85,0.08,0.2,22.3,0,0,0,2.1,2.1,0.06,0.9,0.9,Matches,USA-Major League Soccer,24-25
+3e9ae1db,133,Julián Carranza,ARG,FW,Philadelphia,24-069,2000,11.9,6,45,15,33.3,3.77,1.26,0.13,0.4,13.5,1,0,0,5.9,5.9,0.13,0.1,0.1,Matches,USA-Major League Soccer,24-25
+f087912d,134,Adalberto Carrasquilla,PAN,"FW,MF",Dynamo FC,25-245,1998,18.5,2,21,9,42.9,1.14,0.49,0.1,0.22,22.6,0,0,0,0.9,0.9,0.04,1.1,1.1,Matches,USA-Major League Soccer,24-25
+9f0f5d15,135,Wilder Cartagena,PER,"MF,DF",Orlando City,29-311,1994,16.6,0,15,4,26.7,0.9,0.24,0.0,0.0,22.2,0,0,0,0.7,0.7,0.05,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+2ed8d81b,136,Javier Casas,USA,MF,Fire,21-077,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+cc120b4f,137,Julio Cascante,CRC,DF,Austin,30-301,1993,14.6,2,7,4,57.1,0.48,0.27,0.29,0.5,6.6,0,0,0,1.2,1.2,0.18,0.8,0.8,Matches,USA-Major League Soccer,24-25
+e620dcbb,138,Robert Castellanos,USA,DF,Sporting KC,26-080,1998,9.3,1,6,3,50.0,0.65,0.32,0.17,0.33,8.3,0,0,0,0.9,0.9,0.15,0.1,0.1,Matches,USA-Major League Soccer,24-25
+42ba8628,139,Roman Celentano,USA,GK,FC Cincinnati,23-320,2000,21.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+bd060315,140,Edwin Cerrillo,USA,MF,LA Galaxy,23-301,2000,18.1,0,2,0,0.0,0.11,0.0,0.0,,28.4,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+317be364,141,Tomás Chancalay,ARG,FW,NE Revolution,25-211,1999,10.3,2,45,15,33.3,4.36,1.45,0.04,0.13,19.6,0,0,0,3.1,3.1,0.07,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+04cc9edd,142,Maikel Chang,CUB,"FW,MF",RSL,33-103,1991,3.0,0,2,0,0.0,0.67,0.0,0.0,,14.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+ca366055,143,Maxime Chanot,LUX,DF,LAFC,34-252,1989,8.9,0,7,1,14.3,0.79,0.11,0.0,0.0,18.1,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+6260cc9d,144,Diego Chará,COL,MF,Portland Timbers,38-116,1986,19.7,0,1,0,0.0,0.05,0.0,0.0,,25.0,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c37ce1ca,145,Gabriel Chaves,BRA,FW,LA Galaxy,23-170,2001,22.3,10,82,37,45.1,3.68,1.66,0.12,0.27,17.3,3,0,1,9.4,8.5,0.1,0.6,1.5,Matches,USA-Major League Soccer,24-25
+02fbc447,146,Yevhen Cheberko,UKR,DF,Crew,26-189,1998,11.0,0,3,0,0.0,0.27,0.0,0.0,,17.3,0,0,0,0.3,0.3,0.09,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+017459bb,147,Mathieu Choiniere,CAN,MF,CF Montréal,25-174,1999,16.6,2,10,2,20.0,0.6,0.12,0.1,0.5,24.7,0,1,1,1.3,0.5,0.05,0.7,0.5,Matches,USA-Major League Soccer,24-25
+d88ebbe9,148,Léo Chú,BRA,"FW,MF",Seattle,24-115,2000,7.8,1,8,4,50.0,1.02,0.51,0.13,0.25,16.8,0,0,0,0.8,0.8,0.1,0.2,0.2,Matches,USA-Major League Soccer,24-25
+6e327d0d,149,Caden Clark,USA,"DF,FW",Minnesota Utd,21-064,2003,11.5,0,16,1,6.3,1.4,0.09,0.0,0.0,20.4,0,0,0,0.7,0.7,0.04,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+ed6320b7,150,Steve Clark,USA,GK,Dynamo FC,38-107,1986,20.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4c46e404,151,Noah Cobb,USA,DF,Atlanta Utd,19-010,2005,14.5,0,2,1,50.0,0.14,0.07,0.0,0.0,7.1,0,0,0,0.4,0.4,0.22,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+caed0767,152,Matías Cóccaro,URU,"FW,MF",CF Montréal,26-258,1997,7.3,4,18,7,38.9,2.47,0.96,0.11,0.29,16.8,0,2,2,3.8,2.2,0.12,0.2,-0.2,Matches,USA-Major League Soccer,24-25
+00eb5be4,153,Alonso Coello,ESP,MF,Toronto FC,24-292,1999,13.0,1,5,3,60.0,0.39,0.23,0.2,0.33,17.2,0,0,0,0.3,0.3,0.06,0.7,0.7,Matches,USA-Major League Soccer,24-25
+75c2e240,154,Josh Cohen,USA,GK,Atlanta Utd,31-347,1992,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a535dbc6,155,Enzo Copetti,ARG,FW,Charlotte,28-196,1996,5.5,1,8,6,75.0,1.45,1.09,0.13,0.17,11.4,0,0,0,1.7,1.7,0.21,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+091795f2,156,Gabriele Corbo,ITA,DF,CF Montréal,24-201,2000,14.0,0,5,0,0.0,0.36,0.0,0.0,,23.1,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+5c07e176,157,Carlos Coronel,PAR,GK,NY Red Bulls,27-214,1996,19.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+e28ae695,158,Vitor Costa,BRA,DF,SJ Earthquakes,30-029,1994,18.1,2,16,3,18.8,0.89,0.17,0.13,0.67,17.1,0,0,0,1.8,1.8,0.11,0.2,0.2,Matches,USA-Major League Soccer,24-25
+03a446a2,159,Ben Cremaschi,USA,MF,Inter Miami,19-150,2005,9.3,3,14,5,35.7,1.51,0.54,0.21,0.6,13.5,0,0,0,2.8,2.8,0.2,0.2,0.2,Matches,USA-Major League Soccer,24-25
+ea42e480,160,Maxime Crépeau,CAN,GK,Portland Timbers,30-080,1994,12.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+43f5d4e6,161,Matt Crooks,ENG,MF,RSL,30-192,1994,15.5,2,17,4,23.5,1.1,0.26,0.12,0.5,12.4,0,0,0,2.6,2.6,0.15,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+9b40a6ea,162,Andrés Cubas,PAR,MF,Vancouver W'caps,28-069,1996,17.1,0,4,0,0.0,0.23,0.0,0.0,,28.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+71b47ab9,163,Cucho,COL,"FW,MF",Crew,25-101,1999,16.6,13,95,28,29.5,5.73,1.69,0.13,0.43,18.8,6,1,2,10.0,8.4,0.09,3.0,3.6,Matches,USA-Major League Soccer,24-25
+cf4f1eb9,164,Mauricio Cuevas,USA,"DF,FW",LA Galaxy,21-171,2003,3.1,1,4,1,25.0,1.29,0.32,0.25,1.0,19.8,0,0,0,0.4,0.4,0.11,0.6,0.6,Matches,USA-Major League Soccer,24-25
+9f417f8c,165,Hugo Cuypers,BEL,FW,Fire,27-174,1997,23.3,9,59,27,45.8,2.54,1.16,0.15,0.33,12.3,0,0,0,8.8,8.8,0.15,0.2,0.2,Matches,USA-Major League Soccer,24-25
+b0a0698b,166,Rafael Czichos,GER,DF,Fire,34-077,1990,21.6,1,12,3,25.0,0.55,0.14,0.08,0.33,11.6,0,0,0,1.3,1.3,0.11,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+a065e877,167,Cristián Dajome,COL,"FW,DF",D.C. United,30-209,1994,17.7,3,28,8,28.6,1.58,0.45,0.11,0.38,18.0,0,0,0,2.9,2.9,0.1,0.1,0.1,Matches,USA-Major League Soccer,24-25
+c350e7d5,168,Dagur Dan Þórhallsson,ISL,DF,Orlando City,24-089,2000,21.0,2,18,4,22.2,0.86,0.19,0.11,0.5,18.2,1,0,0,1.7,1.7,0.09,0.3,0.3,Matches,USA-Major League Soccer,24-25
+636fc976,169,Daniel,BRA,GK,SJ Earthquakes,30-085,1994,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b5687b08,170,Jesús Daniel Bueno,VEN,MF,Philadelphia,25-106,1999,6.8,2,12,4,33.3,1.77,0.59,0.17,0.5,17.1,0,0,0,2.0,2.0,0.16,0.0,0.0,Matches,USA-Major League Soccer,24-25
+bb18b3b6,171,Juan David Mosquera,COL,DF,Portland Timbers,21-329,2002,22.2,0,14,3,21.4,0.63,0.14,0.0,0.0,16.1,0,0,0,0.9,0.9,0.06,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+891f8b82,172,Bode Davis,USA,"DF,FW",RSL,22-159,2002,14.4,0,7,0,0.0,0.49,0.0,0.0,,22.5,0,0,0,0.4,0.4,0.05,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+79d3a503,173,Jake Davis,USA,"DF,MF",Sporting KC,22-209,2002,19.7,2,13,3,23.1,0.66,0.15,0.15,0.67,27.6,0,0,0,0.3,0.3,0.03,1.7,1.7,Matches,USA-Major League Soccer,24-25
+cb75cac9,174,Sean Davis,USA,MF,Nashville,31-173,1993,14.3,0,3,0,0.0,0.21,0.0,0.0,,19.7,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+ef6e8c5b,175,Pedro De la Vega,ARG,"MF,FW",Seattle,23-174,2001,2.4,1,5,1,20.0,2.1,0.42,0.0,0.0,23.5,1,1,1,0.9,0.2,0.03,0.1,-0.2,Matches,USA-Major League Soccer,24-25
+ed8c35d2,176,Jonathan Dean,USA,DF,Fire,27-076,1997,9.1,0,3,0,0.0,0.33,0.0,0.0,,24.2,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+4ca4f601,177,Brecht Dejaegere,BEL,"FW,MF",Charlotte,33-062,1991,10.2,1,10,3,30.0,0.98,0.29,0.1,0.33,17.9,1,0,0,1.0,1.0,0.1,0.0,0.0,Matches,USA-Major League Soccer,24-25
+7f6a25b7,178,Marky Delgado,USA,MF,LA Galaxy,29-075,1995,23.3,1,14,5,35.7,0.6,0.21,0.07,0.2,21.6,1,0,0,1.3,1.3,0.09,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+79d49f47,179,Patrickson Delgado,ECU,MF,FC Dallas,20-287,2003,11.0,3,12,5,41.7,1.09,0.45,0.25,0.6,23.8,0,0,0,1.5,1.5,0.12,1.5,1.5,Matches,USA-Major League Soccer,24-25
+1d5c96f8,180,Mikkel Desler,DEN,DF,Austin,29-162,1995,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f4547573,181,Lamine Diack,SEN,"FW,MF",Rapids,23-258,2000,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4d095331,182,Djibril Diani,FRA,MF,Charlotte,26-170,1998,16.3,1,9,1,11.1,0.55,0.06,0.0,0.0,19.1,0,1,1,1.4,0.6,0.07,-0.4,-0.6,Matches,USA-Major League Soccer,24-25
+72072d80,183,Marcos Dias,BRA,FW,NE Revolution,22-243,2001,0.0,0,1,0,0.0,22.5,0.0,0.0,,15.8,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+82a10738,184,Ronald Donkor,MLI,MF,NY Red Bulls,19-253,2004,5.0,0,1,1,100.0,0.2,0.2,0.0,0.0,29.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,USA-Major League Soccer,24-25
+8f995d10,185,Christopher Donovan,USA,"FW,MF",Philadelphia,23-357,2000,4.2,1,9,1,11.1,2.14,0.24,0.11,1.0,11.6,0,0,0,1.2,1.2,0.13,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+c182ca04,186,Griffin Dorsey,USA,DF,Dynamo FC,25-147,1999,20.6,2,30,8,26.7,1.46,0.39,0.07,0.25,16.1,0,0,0,1.4,1.4,0.05,0.6,0.6,Matches,USA-Major League Soccer,24-25
+e329eaa6,187,C.J. dos Santos,USA,GK,Inter Miami,23-341,2000,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+8f2af1ed,188,Hassani Dotson,USA,MF,Minnesota Utd,26-359,1997,16.6,3,23,9,39.1,1.38,0.54,0.13,0.33,22.9,2,0,0,1.5,1.5,0.06,1.5,1.5,Matches,USA-Major League Soccer,24-25
+60e86875,189,Sebastián Driussi,ARG,MF,Austin,28-172,1996,17.1,5,39,12,30.8,2.28,0.7,0.08,0.25,21.1,3,2,4,6.6,3.4,0.09,-1.6,-0.4,Matches,USA-Major League Soccer,24-25
+6a8e0145,190,Erik Duenas,USA,MF,LAFC,19-286,2004,3.5,0,1,0,0.0,0.28,0.0,0.0,,10.6,0,0,0,0.1,0.1,0.11,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+04391c12,191,Morris Duggan,GER,DF,Minnesota Utd,23-280,2000,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+59557625,192,Bryce Duke,USA,MF,CF Montréal,23-153,2001,17.0,2,24,8,33.3,1.41,0.47,0.08,0.25,22.2,3,0,0,1.7,1.7,0.07,0.3,0.3,Matches,USA-Major League Soccer,24-25
+575e6cb1,193,Kyle Duncan,USA,DF,NY Red Bulls,26-357,1997,12.8,1,10,3,30.0,0.78,0.23,0.1,0.33,24.7,0,0,0,0.4,0.4,0.04,0.6,0.6,Matches,USA-Major League Soccer,24-25
+0ffd4373,194,Chris Durkin,USA,MF,St. Louis,24-173,2000,21.4,1,23,4,17.4,1.08,0.19,0.04,0.25,21.4,0,0,0,1.2,1.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+0b243559,195,Nikolas Dyhr,DEN,DF,St. Louis,23-042,2001,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+5fa7b2ec,196,Jeremy Ebobisse,USA,FW,SJ Earthquakes,27-167,1997,18.0,4,37,11,29.7,2.06,0.61,0.08,0.27,16.3,1,1,1,6.2,5.4,0.15,-2.2,-2.4,Matches,USA-Major League Soccer,24-25
+a8de0bd5,197,Daniel Edelman,USA,MF,NY Red Bulls,21-093,2003,19.8,0,8,1,12.5,0.4,0.05,0.0,0.0,27.1,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+10f6f942,198,Earl Edwards Jr.,USA,GK,NE Revolution,32-188,1992,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+8510e2e6,199,Matthew Edwards,USA,DF,Atlanta Utd,21-164,2003,0.0,0,1,0,0.0,45.0,0.0,0.0,,30.0,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f03bba0c,200,Michael Edwards,USA,DF,Rapids,23-246,2000,1.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b828d56a,201,Raheem Edwards,CAN,"DF,MF",CF Montréal,29-015,1995,11.3,0,13,5,38.5,1.15,0.44,0.0,0.0,22.5,1,0,0,0.5,0.5,0.04,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+e1574c2d,202,Noah Eile,SWE,DF,NY Red Bulls,22-011,2002,19.9,0,9,3,33.3,0.45,0.15,0.0,0.0,18.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+4eecde21,203,Piero Elias,USA,FW,NYCFC,21-326,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+041deebd,204,Jack Elliott,ENG,DF,Philadelphia,28-340,1995,18.6,0,12,2,16.7,0.65,0.11,0.0,0.0,11.8,0,0,0,1.0,1.0,0.08,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+1a5c4853,205,Herbert Endeley,USA,"MF,DF",FC Dallas,22-295,2001,1.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a0f55677,206,Emeka Eneli,USA,MF,RSL,24-286,1999,21.6,1,11,4,36.4,0.51,0.19,0.09,0.25,21.0,0,0,0,1.9,1.9,0.17,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+35c95bb2,207,Ramiro Enrique,ARG,"FW,MF",Orlando City,23-087,2001,5.4,4,17,9,52.9,3.14,1.66,0.24,0.44,14.6,0,0,0,2.1,2.1,0.12,1.9,1.9,Matches,USA-Major League Soccer,24-25
+35fc6185,208,Victor Enriquez,,MF,Portland Timbers,,,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b567c8ff,209,Victor Eriksson,SWE,DF,Minnesota Utd,23-317,2000,1.8,0,2,0,0.0,1.08,0.0,0.0,,12.2,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+54f33d0e,210,Franco Escobar,ARG,DF,Dynamo FC,29-160,1995,12.7,2,4,4,100.0,0.32,0.32,0.5,0.5,8.3,0,0,0,0.3,0.3,0.08,1.7,1.7,Matches,USA-Major League Soccer,24-25
+9c794a80,211,Cristian Espinoza,ARG,"FW,MF",SJ Earthquakes,29-118,1995,24.1,3,55,19,34.5,2.29,0.79,0.05,0.16,20.7,7,0,0,3.8,3.8,0.07,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+59059f1e,212,Derrick Etienne,HAI,"MF,FW",Toronto FC,27-248,1996,13.1,3,16,6,37.5,1.22,0.46,0.19,0.5,17.0,0,0,0,1.8,1.8,0.11,1.2,1.2,Matches,USA-Major League Soccer,24-25
+59059f1e,213,Derrick Etienne,HAI,"FW,MF",Atlanta Utd,27-248,1996,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4352d221,214,Evander,BRA,MF,Portland Timbers,26-051,1998,19.3,11,56,21,37.5,2.9,1.09,0.14,0.38,22.8,14,3,3,7.3,4.9,0.09,3.7,3.1,Matches,USA-Major League Soccer,24-25
+fe81682e,215,Diego Fagúndez,URU,"FW,MF",LA Galaxy,29-167,1995,16.1,4,22,12,54.5,1.37,0.75,0.18,0.33,19.7,5,0,0,2.2,2.2,0.1,1.8,1.8,Matches,USA-Major League Soccer,24-25
+cfc68595,216,Marco Farfan,USA,DF,FC Dallas,25-261,1998,13.5,1,4,1,25.0,0.3,0.07,0.25,1.0,18.4,0,0,0,0.4,0.4,0.1,0.6,0.6,Matches,USA-Major League Soccer,24-25
+752ef25b,217,Bryant Farkarlun,USA,FW,Austin,23-016,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+71eda165,218,Andrew Farrell,USA,"DF,MF",NE Revolution,32-119,1992,6.1,0,2,0,0.0,0.33,0.0,0.0,,12.0,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+640b5773,219,Logan Farrington,USA,"FW,MF",FC Dallas,22-229,2001,9.5,2,25,10,40.0,2.64,1.06,0.08,0.2,19.2,2,0,0,1.8,1.8,0.07,0.2,0.2,Matches,USA-Major League Soccer,24-25
+81039302,220,Mohamed Farsi,CAN,"DF,MF",Crew,24-227,1999,15.5,3,10,4,40.0,0.65,0.26,0.3,0.75,10.3,0,0,0,3.0,3.0,0.3,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2415bd0a,221,Felipe,BRA,"MF,FW",Orlando City,33-304,1990,2.9,0,2,0,0.0,0.68,0.0,0.0,,18.5,0,0,0,0.7,0.7,0.36,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+83572e83,222,Julián Fernández,ARG,FW,NYCFC,20-209,2004,6.7,2,18,9,50.0,2.68,1.34,0.11,0.22,18.7,0,0,0,1.7,1.7,0.09,0.3,0.3,Matches,USA-Major League Soccer,24-25
+622986f0,223,Omir Fernandez,USA,FW,Rapids,25-173,1999,14.9,1,24,10,41.7,1.61,0.67,0.04,0.1,16.9,0,0,0,3.1,3.1,0.13,-2.1,-2.1,Matches,USA-Major League Soccer,24-25
+f61246d8,224,Jesús Ferreira,USA,"MF,FW",FC Dallas,23-219,2000,9.0,4,12,7,58.3,1.33,0.77,0.25,0.43,20.8,1,1,1,2.6,1.8,0.15,1.4,1.2,Matches,USA-Major League Soccer,24-25
+5439dba0,225,Sebastián Ferreira,PAR,FW,Dynamo FC,26-168,1998,6.8,5,22,6,27.3,3.26,0.89,0.18,0.67,13.9,0,1,1,2.7,2.0,0.09,2.3,2.0,Matches,USA-Major League Soccer,24-25
+c16a59af,226,Ethan Finlay,USA,"FW,MF",Austin,33-359,1990,8.7,0,2,1,50.0,0.23,0.12,0.0,0.0,10.6,0,0,0,0.2,0.2,0.12,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+bb4610ab,227,Nicolas Firmino,USA,"FW,MF",Atlanta Utd,23-182,2001,1.8,0,2,1,50.0,1.09,0.55,0.0,0.0,14.7,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+39859fa1,228,Leon Flach,USA,MF,Philadelphia,23-153,2001,13.6,0,6,0,0.0,0.44,0.0,0.0,,27.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+67d3d023,229,Kristian Fletcher,USA,"FW,MF",D.C. United,18-359,2005,2.7,1,7,3,42.9,2.56,1.1,0.14,0.33,17.4,0,0,0,0.9,0.9,0.13,0.1,0.1,Matches,USA-Major League Soccer,24-25
+2137636d,230,Nicolas Fleuriau,CAN,FW,Vancouver W'caps,22-070,2002,0.1,0,1,0,0.0,8.18,0.0,0.0,,12.0,0,0,0,0.0,0.0,0.05,0.0,0.0,Matches,USA-Major League Soccer,24-25
+45cc6e15,231,Deybi Flores,HON,MF,Toronto FC,28-044,1996,19.6,1,14,4,28.6,0.72,0.2,0.07,0.25,19.6,0,0,0,0.6,0.6,0.05,0.4,0.4,Matches,USA-Major League Soccer,24-25
+ee4a0679,232,CJ Fodrey,USA,"FW,MF",Austin,20-171,2004,2.1,0,4,3,75.0,1.93,1.44,0.0,0.0,11.9,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+aad135a3,233,Nathan Fogaça,BRA,"FW,MF",Portland Timbers,25-051,1999,2.0,1,8,4,50.0,3.96,1.98,0.13,0.25,14.7,0,0,0,0.7,0.7,0.09,0.3,0.3,Matches,USA-Major League Soccer,24-25
+0f138d5a,234,Andreu Fontàs,ESP,DF,Sporting KC,34-259,1989,14.2,0,2,0,0.0,0.14,0.0,0.0,,7.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+9a2e0ccc,235,Emil Forsberg,SWE,MF,NY Red Bulls,32-281,1991,12.7,6,34,12,35.3,2.69,0.95,0.09,0.25,24.4,12,3,3,4.6,2.2,0.07,1.4,0.8,Matches,USA-Major League Soccer,24-25
+6c3c3c3c,236,Ajani Fortune,TRI,MF,Atlanta Utd,21-213,2002,7.0,0,10,3,30.0,1.42,0.43,0.0,0.0,20.2,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+13ef084f,237,Isaiah Foster,USA,DF,FC Cincinnati,20-353,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+09538c47,238,Franco Fragapane,ARG,"MF,FW",Minnesota Utd,31-175,1993,8.0,1,16,8,50.0,2.0,1.0,0.06,0.13,12.9,0,0,0,2.1,2.1,0.13,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+407325c4,239,Kobe Franklin,CAN,"DF,MF",Toronto FC,21-081,2003,5.1,0,8,1,12.5,1.57,0.2,0.0,0.0,13.9,0,0,0,0.6,0.6,0.08,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+d784062b,240,Liam Fraser,CAN,MF,FC Dallas,26-168,1998,15.3,1,9,4,44.4,0.59,0.26,0.11,0.25,23.3,0,0,0,0.6,0.6,0.06,0.4,0.4,Matches,USA-Major League Soccer,24-25
+f09cbe39,241,Ian Fray,USA,DF,Inter Miami,21-334,2002,2.7,2,6,4,66.7,2.2,1.47,0.33,0.5,9.0,0,0,0,0.4,0.4,0.07,1.6,1.6,Matches,USA-Major League Soccer,24-25
+9f5400d8,242,Wayne Frederick,TRI,MF,Rapids,20-047,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+754f150b,243,Alexander Freeman,USA,"DF,MF",Orlando City,19-356,2004,0.1,0,2,1,50.0,18.0,9.0,0.0,0.0,7.7,0,0,0,0.2,0.2,0.09,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+2f49476c,244,Matt Freese,USA,GK,NYCFC,25-332,1998,25.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+1d0a0f3e,245,Stefan Frei,SUI,GK,Seattle,38-101,1986,20.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+653222cd,246,Nicolás Freire,ARG,DF,Inter Miami,30-163,1994,8.2,0,1,0,0.0,0.12,0.0,0.0,,10.7,0,0,0,0.0,0.0,0.05,0.0,0.0,Matches,USA-Major League Soccer,24-25
+730afdd6,247,Malcolm Fry,USA,FW,NE Revolution,19-076,2005,0.3,0,1,0,0.0,2.9,0.0,0.0,,11.8,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,USA-Major League Soccer,24-25
+8ef72983,248,McKinze Gaines,USA,"FW,MF",Dynamo FC,26-150,1998,0.3,0,1,0,0.0,2.9,0.0,0.0,,17.5,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches,USA-Major League Soccer,24-25
+8ef72983,249,McKinze Gaines,USA,"MF,DF",Nashville,26-150,1998,1.4,0,2,0,0.0,1.45,0.0,0.0,,22.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+9d5afdfb,250,Jon Gallagher,IRL,DF,Austin,28-158,1996,21.2,2,5,2,40.0,0.24,0.09,0.4,1.0,17.0,0,0,0,0.7,0.7,0.13,1.3,1.3,Matches,USA-Major League Soccer,24-25
+b76e1394,251,Pedro Gallese,PER,GK,Orlando City,34-158,1990,20.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+1f6ec0c5,252,Jeremy Garay,SLV,FW,D.C. United,21-120,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+d8eb21b7,253,Carlos Garcés,COL,"DF,FW",LA Galaxy,22-293,2001,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+7371ec36,254,Chase Gasper,USA,DF,Fire,28-187,1996,2.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+862e93c2,255,Ryan Gauld,SCO,"FW,MF",Vancouver W'caps,28-227,1995,22.5,9,41,17,41.5,1.83,0.76,0.17,0.41,18.8,2,2,2,7.1,5.6,0.14,1.9,1.4,Matches,USA-Major League Soccer,24-25
+76c220e0,256,Luka Gavran,CAN,GK,Toronto FC,24-082,2000,9.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+527d0e31,257,Dániel Gazdag,HUN,MF,Philadelphia,28-150,1996,19.8,14,34,23,67.6,1.72,1.16,0.29,0.43,14.6,0,4,5,13.0,9.1,0.27,1.0,0.9,Matches,USA-Major League Soccer,24-25
+8d3d3b0a,258,Giorgos Giakoumakis,GRE,FW,Atlanta Utd,29-234,1994,8.0,5,39,11,28.2,4.87,1.37,0.1,0.36,15.4,0,1,1,4.9,4.2,0.11,0.1,-0.2,Matches,USA-Major League Soccer,24-25
+11c30a46,259,Carles Gil,ESP,MF,NE Revolution,31-251,1992,17.0,5,31,14,45.2,1.83,0.83,0.16,0.36,24.1,9,0,0,1.7,1.7,0.05,3.3,3.3,Matches,USA-Major League Soccer,24-25
+87ec1a2a,260,Nacho Gil,ESP,FW,NE Revolution,28-325,1995,5.2,1,7,3,42.9,1.33,0.57,0.14,0.33,7.9,0,0,0,1.9,1.9,0.27,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+ab66cc31,261,Gastón Giménez,PAR,MF,Fire,33-003,1991,10.9,1,10,4,40.0,0.91,0.37,0.1,0.25,28.8,0,0,0,0.5,0.5,0.05,0.5,0.5,Matches,USA-Major League Soccer,24-25
+ed39ab4a,262,Jake Girdwood-Reich,AUS,MF,St. Louis,20-065,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+88a9b30e,263,Dennis Gjengaar,NOR,"MF,FW",NY Red Bulls,20-157,2004,7.4,1,11,5,45.5,1.49,0.68,0.09,0.2,14.4,0,0,0,2.0,2.0,0.18,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+5b768b0f,264,Justen Glad,USA,DF,RSL,27-153,1997,16.0,0,10,1,10.0,0.62,0.06,0.0,0.0,11.7,0,0,0,0.9,0.9,0.09,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+ac1aa0f9,265,Omari Glasgow,GUY,MF,Fire,20-251,2003,0.4,0,1,0,0.0,2.5,0.0,0.0,,16.8,0,0,0,0.1,0.1,0.09,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+ac65aef3,266,Jakob Glesnes,NOR,DF,Philadelphia,30-127,1994,22.4,1,19,4,21.1,0.85,0.18,0.05,0.25,19.9,0,0,0,0.8,0.8,0.04,0.2,0.2,Matches,USA-Major League Soccer,24-25
+42f4f74d,267,Caden Glover,USA,FW,St. Louis,17-144,2007,0.6,0,3,2,66.7,5.0,3.33,0.0,0.0,10.7,0,0,0,0.3,0.3,0.1,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+2d496ca3,268,Aníbal Godoy,PAN,MF,Nashville,34-171,1990,10.9,1,8,3,37.5,0.73,0.27,0.13,0.33,17.3,0,0,0,0.8,0.7,0.09,0.2,0.3,Matches,USA-Major League Soccer,24-25
+e43c8d72,269,Yeimar Gómez Andrade,COL,DF,Seattle,32-030,1992,18.6,0,11,2,18.2,0.59,0.11,0.0,0.0,11.6,0,0,0,0.6,0.6,0.06,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+76a82373,270,Carlos Gómez,COL,FW,RSL,21-322,2002,20.1,13,68,32,47.1,3.39,1.59,0.19,0.41,17.0,2,0,0,8.5,8.5,0.12,4.5,4.5,Matches,USA-Major League Soccer,24-25
+916728da,271,Diego Gómez,PAR,"MF,FW",Inter Miami,21-125,2003,9.8,3,17,12,70.6,1.74,1.23,0.18,0.25,18.1,0,0,0,1.3,1.3,0.08,1.7,1.7,Matches,USA-Major League Soccer,24-25
+3c2d167e,272,Nicksoen Gomis,FRA,DF,Toronto FC,22-137,2002,20.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+0d2fe665,273,Omar Gonzalez,USA,DF,FC Dallas,35-293,1988,7.8,0,4,1,25.0,0.51,0.13,0.0,0.0,8.1,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+bc2eb719,274,Zavier Gozo,USA,FW,RSL,17-130,2007,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c839e1b2,275,Tayvon Gray,JAM,DF,NYCFC,21-346,2002,11.0,0,3,2,66.7,0.27,0.18,0.0,0.0,20.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+7d974435,276,Ján Greguš,SVK,MF,Dynamo FC,33-183,1991,4.2,0,2,0,0.0,0.47,0.0,0.0,,21.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+acd47bc0,277,Julian Gressel,USA,"MF,FW",Inter Miami,30-227,1993,20.6,1,24,5,20.8,1.17,0.24,0.04,0.2,19.8,0,0,0,2.2,2.2,0.09,-1.2,-1.2,Matches,USA-Major League Soccer,24-25
+f2dd9a21,278,Carlos Gruezo,ECU,MF,SJ Earthquakes,29-102,1995,15.2,0,12,2,16.7,0.79,0.13,0.0,0.0,24.1,0,0,0,0.5,0.5,0.04,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+d88f31db,279,Brian Gutiérrez,USA,"MF,FW",Fire,21-043,2003,19.7,5,47,15,31.9,2.39,0.76,0.09,0.27,23.2,1,1,1,3.7,3.0,0.06,1.3,1.0,Matches,USA-Major League Soccer,24-25
+b7a23251,280,Andrew Gutman,USA,DF,Fire,27-302,1996,5.7,0,9,1,11.1,1.59,0.18,0.0,0.0,15.8,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+d899e3bf,281,Brad Guzan,USA,GK,Atlanta Utd,39-325,1984,22.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c644e140,282,Justin Haak,USA,"MF,DF",NYCFC,22-322,2001,4.3,0,4,2,50.0,0.92,0.46,0.0,0.0,14.4,0,0,0,0.6,0.6,0.15,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+edc3b063,283,Taha Habroune,USA,MF,Crew,18-176,2006,0.9,0,1,0,0.0,1.1,0.0,0.0,,17.2,0,0,0,0.1,0.1,0.11,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+4202ac27,284,Nicholas Hagen,GUA,GK,Crew,27-363,1996,2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+39632554,285,Nick Hagglund,USA,DF,FC Cincinnati,31-320,1992,5.1,0,1,1,100.0,0.19,0.19,0.0,0.0,13.4,0,0,0,0.1,0.1,0.13,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+aee414b1,286,Maren Haile-Selassie,SUI,"FW,MF",Fire,25-139,1999,16.6,5,37,17,45.9,2.23,1.03,0.11,0.24,16.1,0,1,1,6.0,5.2,0.14,-1.0,-1.2,Matches,USA-Major League Soccer,24-25
+ea7733d4,287,Julian Hall,USA,"FW,MF",NY Red Bulls,16-128,2008,0.9,1,2,1,50.0,2.28,1.14,0.5,1.0,8.4,0,0,0,0.5,0.5,0.25,0.5,0.5,Matches,USA-Major League Soccer,24-25
+6ad5f50e,288,Michael Halliday,USA,DF,Orlando City,21-190,2003,1.0,0,3,1,33.3,3.03,1.01,0.0,0.0,16.4,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+8821de7e,289,Bret Halsey,USA,DF,FC Cincinnati,24-059,2000,5.1,0,7,4,57.1,1.38,0.79,0.0,0.0,12.6,0,0,0,1.0,1.0,0.14,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+73fdc4c2,290,Ian Harkes,USA,MF,NE Revolution,29-122,1995,13.7,1,17,7,41.2,1.24,0.51,0.06,0.14,23.4,0,0,0,0.6,0.6,0.03,0.4,0.4,Matches,USA-Major League Soccer,24-25
+4a78c769,291,Cameron Harper,USA,"MF,FW",NY Red Bulls,22-254,2001,9.7,5,29,17,58.6,3.0,1.76,0.17,0.29,16.7,0,0,0,3.7,3.7,0.13,1.3,1.3,Matches,USA-Major League Soccer,24-25
+b3edbeff,292,Nathan Harriel,USA,DF,Philadelphia,23-098,2001,19.9,0,27,2,7.4,1.36,0.1,0.0,0.0,14.1,0,0,0,1.6,1.6,0.06,-1.6,-1.6,Matches,USA-Major League Soccer,24-25
+07b0aeef,293,Calvin Harris,ENG,FW,Rapids,24-132,2000,11.7,3,16,9,56.3,1.36,0.77,0.19,0.33,13.1,0,0,0,3.2,3.2,0.23,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+3f18600c,294,Carlos Harvey,PAN,"DF,MF",Minnesota Utd,24-178,2000,5.6,0,4,2,50.0,0.72,0.36,0.0,0.0,18.1,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+5e2a4d0e,295,Matt Hedges,USA,DF,Austin,34-120,1990,7.4,1,4,1,25.0,0.54,0.14,0.25,1.0,9.0,0,0,0,0.3,0.3,0.07,0.7,0.7,Matches,USA-Major League Soccer,24-25
+5cbf5ccd,296,Fabian Herbers,GER,MF,Fire,30-348,1993,19.0,2,19,6,31.6,1.0,0.32,0.11,0.33,18.4,0,0,0,2.1,2.1,0.11,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+9944f7bd,297,Jay Herdman,NZL,FW,Vancouver W'caps,19-351,2004,0.1,0,1,0,0.0,9.0,0.0,0.0,,29.9,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+31a4d0b8,298,Felipe Hernandez,USA,MF,Sporting KC,26-052,1998,4.2,0,3,0,0.0,0.72,0.0,0.0,,17.0,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+de907bab,299,Ronald Hernández,VEN,"DF,MF",Atlanta Utd,26-313,1997,6.5,0,7,0,0.0,1.08,0.0,0.0,,18.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+d86e3070,300,Aaron Herrera,GUA,DF,D.C. United,27-054,1997,21.3,1,25,8,32.0,1.17,0.38,0.04,0.13,24.8,4,0,0,1.1,1.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+a8542814,301,Héctor Herrera,MEX,MF,Dynamo FC,34-102,1990,14.0,1,24,7,29.2,1.72,0.5,0.04,0.14,24.3,4,0,0,1.1,1.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+e16db703,302,Kyle Hiebert,CAN,DF,St. Louis,27-000,1997,9.2,0,7,1,14.3,0.76,0.11,0.0,0.0,16.5,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+b807c1dc,303,Brendan Hines-Ike,USA,DF,Austin,29-243,1994,19.4,1,8,1,12.5,0.41,0.05,0.13,1.0,19.1,0,0,0,0.6,0.6,0.07,0.4,0.4,Matches,USA-Major League Soccer,24-25
+f397ba12,304,Marino Hinestroza,COL,"MF,FW",Crew,22-022,2002,3.9,2,10,3,30.0,2.55,0.76,0.2,0.67,13.0,0,0,0,1.8,1.8,0.18,0.2,0.2,Matches,USA-Major League Soccer,24-25
+de9952b5,305,Bongokuhle Hlongwane,RSA,"FW,MF",Minnesota Utd,24-040,2000,14.6,7,36,18,50.0,2.46,1.23,0.19,0.39,15.4,0,0,0,6.0,5.7,0.17,1.0,1.3,Matches,USA-Major League Soccer,24-25
+28b58797,306,Ryan Hollingshead,USA,DF,LAFC,33-105,1991,17.5,1,14,4,28.6,0.8,0.23,0.07,0.25,16.7,0,0,0,0.8,0.8,0.06,0.2,0.2,Matches,USA-Major League Soccer,24-25
+8344adf5,307,Jackson Hopkins,USA,MF,D.C. United,20-029,2004,10.6,0,10,3,30.0,0.94,0.28,0.0,0.0,23.9,0,0,0,1.0,1.0,0.1,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+41ba8175,308,Sebastien Ibeagha,USA,DF,FC Dallas,32-191,1992,22.0,1,8,3,37.5,0.36,0.14,0.13,0.33,11.8,0,0,0,0.7,0.7,0.09,0.3,0.3,Matches,USA-Major League Soccer,24-25
+363399b2,309,Aliyu Ibrahim,NGA,FW,Dynamo FC,22-196,2002,22.2,6,53,23,43.4,2.39,1.04,0.11,0.26,16.6,0,0,0,5.5,5.5,0.1,0.5,0.5,Matches,USA-Major League Soccer,24-25
+796994e5,310,Sunusi Ibrahim,NGA,"FW,MF",CF Montréal,21-303,2002,10.0,6,27,11,40.7,2.7,1.1,0.22,0.55,17.3,0,0,0,4.3,4.3,0.16,1.7,1.7,Matches,USA-Major League Soccer,24-25
+9694c407,311,Mitja Ilenič,SVN,DF,NYCFC,19-217,2004,14.4,0,13,1,7.7,0.9,0.07,0.0,0.0,21.7,0,0,0,0.9,0.9,0.07,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+5ce0b5ba,312,Asier Illarramendi,ESP,MF,FC Dallas,34-144,1990,13.8,2,25,3,12.0,1.81,0.22,0.08,0.67,25.1,3,0,0,1.1,1.1,0.04,0.9,0.9,Matches,USA-Major League Soccer,24-25
+5e388ecf,313,Bjørn Inge Utvik,NOR,DF,Vancouver W'caps,28-153,1996,11.8,0,8,1,12.5,0.68,0.08,0.0,0.0,8.7,0,0,0,1.1,1.1,0.13,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+2f557579,314,Lorenzo Insigne,ITA,MF,Toronto FC,33-056,1991,12.6,4,39,15,38.5,3.09,1.19,0.08,0.2,22.5,4,1,1,3.3,2.5,0.06,0.7,0.5,Matches,USA-Major League Soccer,24-25
+c1205184,315,Clint Irwin,USA,GK,Minnesota Utd,35-120,1989,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4d6e50d8,316,Aljaž Ivačič,SVN,GK,NE Revolution,30-214,1993,14.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+50a5e230,317,Ousman jabang,USA,DF,CF Montréal,23-123,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+9862259f,318,Aziel Jackson,USA,DF,Crew,22-280,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+9862259f,319,Aziel Jackson,USA,"FW,MF",St. Louis,22-280,2001,8.9,0,21,10,47.6,2.36,1.13,0.0,0.0,18.4,3,0,0,1.5,1.5,0.07,-1.5,-1.5,Matches,USA-Major League Soccer,24-25
+de301aee,320,Jacob Jackson,USA,GK,SJ Earthquakes,24-096,2000,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+8ca5c176,321,Robin Jansson,SWE,DF,Orlando City,32-258,1991,20.6,1,5,2,40.0,0.24,0.1,0.2,0.5,14.1,0,0,0,0.6,0.6,0.13,0.4,0.4,Matches,USA-Major League Soccer,24-25
+31d049b2,322,Andres Jasson,USA,"MF,FW",NYCFC,22-195,2002,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ea93bcd9,323,Mohanad Jeahze,IRQ,MF,D.C. United,27-111,1997,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2dc1e90e,324,Hector Jiménez,USA,DF,Austin,35-270,1988,5.3,0,2,0,0.0,0.38,0.0,0.0,,9.7,0,0,0,0.4,0.4,0.21,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+b26a0215,325,Stiven Jimenez,USA,MF,FC Cincinnati,17-036,2007,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ec5c7bac,326,Levonte Johnson,CAN,FW,Vancouver W'caps,25-137,1999,3.9,0,10,3,30.0,2.56,0.77,0.0,0.0,16.1,0,0,0,1.0,1.0,0.1,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+c164335e,327,Sean Johnson,USA,GK,Toronto FC,35-060,1989,17.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+10d1139c,328,DeJuan Jones,USA,DF,NE Revolution,27-036,1997,15.7,0,6,0,0.0,0.38,0.0,0.0,,19.1,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+93c92d6c,329,Derrick Jones,USA,"MF,DF",Crew,27-149,1997,1.8,0,2,1,50.0,1.1,0.55,0.0,0.0,26.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+fba1e79b,330,Isaiah Jones,USA,"MF,FW",Nashville,18-113,2006,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+81167a59,331,Malachi Jones,SLE,FW,NYCFC,20-311,2003,5.4,1,18,5,27.8,3.32,0.92,0.06,0.2,13.5,0,0,0,2.2,2.2,0.12,-1.2,-1.2,Matches,USA-Major League Soccer,24-25
+95a24690,332,Dejan Joveljić,SRB,FW,LA Galaxy,24-358,1999,16.3,12,43,22,51.2,2.64,1.35,0.26,0.5,12.3,0,1,2,12.8,10.9,0.26,-0.8,0.1,Matches,USA-Major League Soccer,24-25
+50c9bf12,333,Mykhi Joyner,USA,FW,St. Louis,17-335,2006,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+00534d73,334,Preston Judd,USA,FW,SJ Earthquakes,25-063,1999,7.2,1,17,7,41.2,2.35,0.97,0.06,0.14,12.8,0,0,0,2.1,2.1,0.12,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+f907a6a8,335,Anderson Julio,ECU,"FW,MF",RSL,28-060,1996,10.9,6,37,15,40.5,3.39,1.37,0.16,0.4,16.8,0,0,0,5.1,5.1,0.14,0.9,0.9,Matches,USA-Major League Soccer,24-25
+91981d97,336,Sam Junqua,USA,DF,FC Dallas,27-264,1996,19.9,1,12,4,33.3,0.6,0.2,0.08,0.25,17.0,0,0,0,0.7,0.7,0.06,0.3,0.3,Matches,USA-Major League Soccer,24-25
+c505d8b0,337,Sawyer Jura,USA,DF,Portland Timbers,18-143,2006,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+65b71d5e,338,Cyprian Kachwele,TAN,MF,Vancouver W'caps,19-166,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+53e360bb,339,Kristijan Kahlina,CRO,GK,Charlotte,32-006,1992,25.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2b24702b,340,Brent Kallman,USA,DF,Nashville,33-300,1990,6.0,0,8,2,25.0,1.33,0.33,0.0,0.0,8.0,0,0,0,1.6,1.6,0.19,-1.6,-1.6,Matches,USA-Major League Soccer,24-25
+6e3f3809,341,Kei Kamara,SLE,"FW,MF",LAFC,39-333,1984,8.1,3,24,10,41.7,2.98,1.24,0.13,0.3,10.8,0,0,0,3.1,3.1,0.13,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+186acc62,342,Bernard Kamungo,USA,"MF,FW",FC Dallas,22-211,2002,11.7,0,17,4,23.5,1.45,0.34,0.0,0.0,18.2,0,0,0,1.6,1.6,0.1,-1.6,-1.6,Matches,USA-Major League Soccer,24-25
+4a8af93c,343,Alec Kann,USA,GK,FC Cincinnati,33-357,1990,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+5c041f1f,344,Alexandros Katranis,GRE,DF,RSL,26-087,1998,16.4,3,14,6,42.9,0.86,0.37,0.21,0.5,22.5,0,0,0,0.5,0.5,0.04,2.5,2.5,Matches,USA-Major League Soccer,24-25
+36a38acd,345,Mark-Anthony Kaye,CAN,MF,NE Revolution,29-241,1994,11.1,0,6,1,16.7,0.54,0.09,0.0,0.0,18.7,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+fe5fea9f,346,Kipp Keller,USA,DF,FC Cincinnati,24-016,2000,9.1,0,6,0,0.0,0.66,0.0,0.0,,8.5,0,0,0,0.6,0.6,0.09,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+136958ad,347,Kevin Kelsy,VEN,FW,FC Cincinnati,20-003,2004,8.9,5,17,11,64.7,1.91,1.24,0.29,0.45,11.9,0,0,0,1.6,1.6,0.1,3.4,3.4,Matches,USA-Major League Soccer,24-25
+a3e85f7b,348,Deandre Kerr,CAN,FW,Toronto FC,21-254,2002,7.2,1,17,7,41.2,2.35,0.97,0.06,0.14,13.4,0,0,0,2.4,2.4,0.14,-1.4,-1.4,Matches,USA-Major League Soccer,24-25
+23c75879,349,Henry Kessler,USA,DF,NE Revolution,26-035,1998,15.4,0,5,1,20.0,0.32,0.06,0.0,0.0,13.5,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+858f1390,350,Hosei Kijima,JPN,"MF,FW",St. Louis,22-029,2002,8.5,1,14,2,14.3,1.65,0.24,0.07,0.5,18.8,0,0,0,1.8,1.8,0.13,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+fe11d61b,351,Benjamin Kikanovic,USA,"FW,DF",SJ Earthquakes,24-206,2000,11.6,3,21,6,28.6,1.81,0.52,0.14,0.5,14.0,0,0,0,2.4,2.4,0.11,0.6,0.6,Matches,USA-Major League Soccer,24-25
+1a49a238,352,Sota Kitahara,USA,"DF,MF",Seattle,21-201,2003,1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f5ae006d,353,Klauss,BRA,FW,St. Louis,27-151,1997,15.9,5,65,16,24.6,4.09,1.01,0.06,0.25,15.3,0,1,2,8.1,6.5,0.1,-3.1,-2.5,Matches,USA-Major League Soccer,24-25
+1f24603a,354,John Klein,USA,"FW,MF",St. Louis,24-256,1999,6.0,1,11,5,45.5,1.84,0.84,0.09,0.2,12.7,0,0,0,1.2,1.2,0.11,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+282679b4,355,Mateusz Klich,POL,MF,D.C. United,34-047,1990,22.2,2,19,10,52.6,0.86,0.45,0.0,0.0,25.1,3,2,2,2.8,1.2,0.06,-0.8,-1.2,Matches,USA-Major League Soccer,24-25
+4dbd4eb0,356,Jeorgio Kocevski,USA,"MF,FW",Orlando City,21-346,2002,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4501fd21,357,Žan Kolmanič,SVN,"DF,FW",Austin,24-149,2000,5.8,0,2,0,0.0,0.34,0.0,0.0,,19.5,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+b57b998c,358,Georgios Koutsias,GRE,"FW,MF",Fire,20-173,2004,5.5,0,15,7,46.7,2.74,1.28,0.0,0.0,13.5,0,0,0,2.2,2.2,0.15,-2.2,-2.2,Matches,USA-Major League Soccer,24-25
+1ea1a59a,359,Sebastian Kowalczyk,POL,"FW,MF",Dynamo FC,25-343,1998,16.6,3,27,9,33.3,1.62,0.54,0.11,0.33,16.5,0,0,0,3.4,3.4,0.13,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+068be155,360,Damir Kreilach,CRO,"FW,MF",Vancouver W'caps,35-105,1989,4.3,2,9,7,77.8,2.11,1.64,0.22,0.29,9.3,0,0,0,2.1,2.1,0.23,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+292a652a,361,Serhiy Kryvtsov,UKR,DF,Inter Miami,33-137,1991,13.4,1,3,2,66.7,0.22,0.15,0.33,0.5,9.2,0,0,0,0.3,0.3,0.11,0.7,0.7,Matches,USA-Major League Soccer,24-25
+ef7c10e0,362,Theodore Ku-Dipietro,USA,"MF,FW",D.C. United,22-184,2002,15.5,2,29,6,20.7,1.88,0.39,0.07,0.33,13.9,0,0,0,4.8,4.8,0.17,-2.8,-2.8,Matches,USA-Major League Soccer,24-25
+cba16a46,363,Yuya Kubo,JPN,"FW,DF",FC Cincinnati,30-219,1993,19.0,9,46,17,37.0,2.42,0.89,0.2,0.53,16.9,0,0,0,6.9,6.9,0.15,2.1,2.1,Matches,USA-Major League Soccer,24-25
+37295115,364,Mathías Laborda,URU,DF,Vancouver W'caps,24-319,1999,15.6,2,9,3,33.3,0.58,0.19,0.22,0.67,11.0,0,0,0,1.3,1.3,0.14,0.7,0.7,Matches,USA-Major League Soccer,24-25
+bcb2282d,365,Lassi Lappalainen,FIN,"DF,MF",CF Montréal,25-341,1998,2.8,0,4,0,0.0,1.42,0.0,0.0,,16.5,0,0,0,0.3,0.3,0.07,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+68d48a71,366,Jesús David Murillo Largacha,COL,DF,LAFC,30-163,1994,18.8,0,8,3,37.5,0.43,0.16,0.0,0.0,9.0,0,0,0,0.5,0.5,0.06,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+ecdbe767,367,Oliver Larraz,USA,MF,Rapids,22-318,2001,18.6,1,14,6,42.9,0.75,0.32,0.07,0.17,18.8,0,0,0,1.5,1.5,0.11,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+276fdbe4,368,Richie Laryea,CAN,DF,Toronto FC,29-205,1995,2.6,1,1,1,100.0,0.38,0.38,1.0,1.0,4.3,0,0,0,0.5,0.5,0.53,0.5,0.5,Matches,USA-Major League Soccer,24-25
+bd7b916c,369,Ariel Lassiter,CRC,"DF,MF",CF Montréal,29-307,1994,17.7,3,25,12,48.0,1.41,0.68,0.12,0.25,21.5,4,0,0,2.8,2.8,0.11,0.2,0.2,Matches,USA-Major League Soccer,24-25
+874a5031,370,Randall Leal,CRC,MF,Nashville,27-198,1997,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f2571c91,371,Tim Leibold,GER,DF,Sporting KC,30-243,1993,18.1,1,11,4,36.4,0.61,0.22,0.09,0.25,20.2,0,0,0,0.5,0.5,0.05,0.5,0.5,Matches,USA-Major League Soccer,24-25
+ec80ba72,372,Brooks Lennon,USA,"DF,MF",Atlanta Utd,26-312,1997,25.0,0,7,0,0.0,0.28,0.0,0.0,,17.6,1,0,0,0.5,0.5,0.07,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+1fafbf53,373,Tucker Lepley,USA,MF,LA Galaxy,22-195,2002,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2501eb59,374,Jonathan Lewis,USA,"FW,MF",Rapids,27-056,1997,4.1,2,13,3,23.1,3.15,0.73,0.15,0.67,15.3,0,0,0,1.4,1.4,0.11,0.6,0.6,Matches,USA-Major League Soccer,24-25
+ecc3a9c9,375,Danny Leyva,USA,MF,Seattle,21-086,2003,2.1,0,5,0,0.0,2.39,0.0,0.0,,20.1,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+959686eb,376,Nick Lima,USA,DF,NE Revolution,29-256,1994,16.1,0,3,0,0.0,0.19,0.0,0.0,,20.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+83cb6e59,377,Jaylin Lindsey,USA,DF,Charlotte,24-125,2000,3.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+73019c31,378,Sebastian Lletget,USA,MF,FC Dallas,31-331,1992,13.5,1,10,5,50.0,0.74,0.37,0.1,0.2,22.0,0,0,0,1.3,1.3,0.13,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+8f62b6ee,379,Hugo Lloris,FRA,GK,LAFC,37-217,1986,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+84d6ce13,380,Saba Lobzhanidze,GEO,"FW,MF",Atlanta Utd,29-225,1994,18.4,6,52,20,38.5,2.83,1.09,0.12,0.3,15.1,2,0,0,6.7,6.7,0.13,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+33c69aa0,381,Robin Lod,FIN,"MF,FW",Minnesota Utd,31-104,1993,19.3,6,30,12,40.0,1.56,0.62,0.2,0.5,19.6,2,0,0,3.8,3.8,0.13,2.2,2.2,Matches,USA-Major League Soccer,24-25
+fe81d0d1,382,Nicolás Lodeiro,URU,MF,Orlando City,35-131,1989,16.9,1,29,7,24.1,1.71,0.41,0.03,0.14,19.4,1,0,0,2.0,2.0,0.07,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+ce037639,383,Jasper Löffelsend,GER,MF,Rapids,26-324,1997,3.2,0,2,1,50.0,0.63,0.31,0.0,0.0,25.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+46b89640,384,Aaron Long,USA,DF,LAFC,31-292,1992,19.2,0,6,1,16.7,0.31,0.05,0.0,0.0,11.1,0,0,0,0.5,0.5,0.09,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+5a4280b1,385,Kevin Long,IRL,DF,Toronto FC,33-347,1990,19.5,0,5,1,20.0,0.26,0.05,0.0,0.0,10.2,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+c0027d2d,386,Matthew Longstaff,ENG,MF,Toronto FC,24-131,2000,18.1,2,18,6,33.3,0.99,0.33,0.11,0.33,16.0,0,0,0,2.9,2.9,0.16,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+7b02a7e1,387,Antino Lopez,USA,MF,Seattle,22-070,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2e8597d8,388,Hernán López Muñoz,ARG,"MF,FW",SJ Earthquakes,23-327,2000,12.6,4,30,5,16.7,2.39,0.4,0.13,0.8,23.8,0,0,0,3.0,3.0,0.1,1.0,1.0,Matches,USA-Major League Soccer,24-25
+95c5f7c1,389,Evan Louro,USA,GK,FC Cincinnati,28-193,1996,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+db97d838,390,Daniel Lovitz,USA,DF,Nashville,32-338,1991,17.2,0,2,0,0.0,0.12,0.0,0.0,,28.7,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b6e2e54c,391,Damion Lowe,JAM,DF,Philadelphia,31-086,1993,10.7,0,12,2,16.7,1.12,0.19,0.0,0.0,17.0,0,0,0,0.8,0.8,0.07,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+70678132,392,Eduard Löwen,GER,MF,St. Louis,27-184,1997,12.8,3,35,8,22.9,2.73,0.62,0.03,0.13,27.3,9,2,3,3.8,1.6,0.05,-0.8,-0.6,Matches,USA-Major League Soccer,24-25
+e67f8af0,393,Diego Luna,USA,FW,RSL,20-327,2003,18.6,5,38,14,36.8,2.04,0.75,0.13,0.36,19.3,1,0,0,4.2,4.2,0.12,0.8,0.8,Matches,USA-Major League Soccer,24-25
+abe9908a,394,Benjamin Lundt,GER,GK,St. Louis,28-310,1995,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c81d718e,395,Jack Lynn,USA,"FW,MF",Orlando City,24-200,2000,2.8,2,6,3,50.0,2.14,1.07,0.33,0.67,7.6,0,0,0,2.5,2.5,0.41,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+5bdec47f,396,Larrys Mabiala,COD,DF,Portland Timbers,36-296,1987,0.5,0,1,0,0.0,2.0,0.0,0.0,,10.8,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches,USA-Major League Soccer,24-25
+3a37d349,397,Aimé Mabika,ZAM,DF,Toronto FC,25-349,1998,3.7,0,4,0,0.0,1.07,0.0,0.0,,13.2,0,0,0,0.5,0.5,0.12,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+06caac45,398,Zac MacMath,USA,GK,RSL,32-358,1991,18.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b6111d16,399,Lukas MacNaughton,CAN,DF,Nashville,29-144,1995,4.6,0,4,2,50.0,0.88,0.44,0.0,0.0,7.4,0,0,0,0.4,0.4,0.11,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+64c98878,400,Talles Magno,BRA,"FW,MF",NYCFC,22-034,2002,0.8,1,2,1,50.0,2.65,1.32,0.0,0.0,20.4,0,1,1,0.9,0.1,0.04,0.1,-0.1,Matches,USA-Major League Soccer,24-25
+0c6f2fa6,401,Jack Maher,USA,DF,Nashville,24-276,1999,22.0,1,6,1,16.7,0.27,0.05,0.17,1.0,6.2,0,0,0,0.9,0.9,0.16,0.1,0.1,Matches,USA-Major League Soccer,24-25
+cd606f1a,402,Cassius Mailula,RSA,"MF,DF",Toronto FC,23-048,2001,0.2,0,2,1,50.0,9.47,4.74,0.0,0.0,13.6,0,0,0,0.4,0.4,0.18,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+9d83969b,403,Adilson Malanda,FRA,DF,Charlotte,22-275,2001,23.0,1,5,3,60.0,0.22,0.13,0.2,0.33,17.8,1,0,0,1.1,1.1,0.23,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+7f19cbe0,404,Elias Manoel,BRA,FW,NY Red Bulls,22-243,2001,12.7,5,35,15,42.9,2.76,1.18,0.11,0.27,17.3,0,1,1,5.9,5.1,0.15,-0.9,-1.1,Matches,USA-Major League Soccer,24-25
+da0bb55a,405,Paul Marie,FRA,DF,SJ Earthquakes,29-128,1995,12.5,2,5,3,60.0,0.4,0.24,0.4,0.67,18.7,0,0,0,0.6,0.6,0.13,1.4,1.4,Matches,USA-Major League Soccer,24-25
+565fde4a,406,Anthony Markanich,PHI,DF,St. Louis,24-217,1999,14.6,0,17,6,35.3,1.17,0.41,0.0,0.0,23.0,0,0,0,0.6,0.5,0.03,-0.6,-0.5,Matches,USA-Major League Soccer,24-25
+b9459f85,407,Jahkeele Marshall-Rutty,CAN,"DF,MF",Toronto FC,20-044,2004,11.5,1,12,2,16.7,1.04,0.17,0.08,0.5,16.3,0,0,0,0.9,0.9,0.08,0.1,0.1,Matches,USA-Major League Soccer,24-25
+20de0b83,408,Alonso Martínez,CRC,FW,NYCFC,25-289,1998,9.4,8,34,16,47.1,3.6,1.7,0.24,0.5,15.7,0,0,0,6.2,6.2,0.18,1.8,1.8,Matches,USA-Major League Soccer,24-25
+52fe0ad4,409,David Martínez,VEN,"FW,MF",LAFC,18-174,2006,1.6,1,12,6,50.0,7.3,3.65,0.08,0.17,21.9,0,0,0,0.5,0.5,0.04,0.5,0.5,Matches,USA-Major League Soccer,24-25
+e73f0aa1,410,Josef Martínez,VEN,"FW,MF",CF Montréal,31-072,1993,9.8,5,30,8,26.7,3.06,0.82,0.13,0.5,15.4,2,1,1,6.0,5.2,0.17,-1.0,-1.2,Matches,USA-Major League Soccer,24-25
+56b7c09b,411,Luís Martins,POR,"DF,MF",Vancouver W'caps,32-050,1992,8.6,0,4,1,25.0,0.47,0.12,0.0,0.0,24.4,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+4d6ec370,412,Thiago Martins,BRA,DF,NYCFC,29-135,1995,22.0,0,6,0,0.0,0.27,0.0,0.0,,10.9,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+3bd3bcc4,413,Alexandru Mățan,ROU,MF,Crew,24-336,1999,8.6,1,8,5,62.5,0.93,0.58,0.13,0.2,15.7,0,0,0,1.0,1.0,0.12,0.0,0.0,Matches,USA-Major League Soccer,24-25
+52fdf512,414,Andreas Maxsø,DEN,DF,Rapids,30-134,1994,26.0,0,11,3,27.3,0.42,0.12,0.0,0.0,12.1,0,0,0,0.6,0.6,0.05,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+f6315619,415,Olivier Mbaizo,CMR,DF,Philadelphia,26-350,1997,8.6,0,4,0,0.0,0.46,0.0,0.0,,27.8,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+249362e9,416,John McCarthy,USA,GK,LA Galaxy,32-026,1992,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b74e58c0,417,Dax McCarty,USA,MF,Atlanta Utd,37-091,1987,8.1,0,8,0,0.0,0.99,0.0,0.0,,20.0,0,0,0,0.4,0.4,0.05,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+c0bdf952,418,Christian McFarlane,ENG,"DF,MF",NYCFC,17-187,2007,2.6,0,1,0,0.0,0.38,0.0,0.0,,11.2,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+e2b8c25c,419,Jack McGlynn,USA,MF,Philadelphia,21-023,2003,19.2,3,34,13,38.2,1.77,0.68,0.09,0.23,25.6,3,0,0,1.8,1.8,0.05,1.2,1.2,Matches,USA-Major League Soccer,24-25
+83129dc7,420,Zac McGraw,CAN,DF,Portland Timbers,27-052,1997,9.5,0,2,1,50.0,0.21,0.11,0.0,0.0,10.9,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+e0d45022,421,Duncan McGuire,USA,FW,Orlando City,23-176,2001,14.9,7,34,13,38.2,2.28,0.87,0.21,0.54,11.4,0,0,0,5.0,5.0,0.15,2.0,2.0,Matches,USA-Major League Soccer,24-25
+ab36595d,422,Thomas McNamara,USA,"FW,MF",NE Revolution,33-175,1991,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+9a01d4ba,423,Brendan McSorley,USA,FW,St. Louis,22-180,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+149d8165,424,Christopher McVey,SWE,DF,D.C. United,27-109,1997,17.6,1,6,2,33.3,0.34,0.11,0.17,0.5,10.4,0,0,0,1.0,1.0,0.16,0.0,0.0,Matches,USA-Major League Soccer,24-25
+18f0723b,425,Ryan Meara,USA,GK,NY Red Bulls,33-258,1990,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+cc741f50,426,Tim Melia,USA,GK,Sporting KC,38-076,1986,23.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+8087e6cb,427,Jonathan Mensah,GHA,"DF,FW",NE Revolution,34-017,1990,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+9d66e108,428,Loïc Mesanvi,TOG,FW,Minnesota Utd,20-298,2003,0.5,0,1,1,100.0,2.05,2.05,0.0,0.0,10.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+d70ce98e,429,Lionel Messi,ARG,FW,Inter Miami,37-036,1987,11.5,12,57,25,43.9,4.96,2.17,0.19,0.44,19.0,10,1,1,8.3,7.5,0.13,3.7,3.5,Matches,USA-Major League Soccer,24-25
+9fc0f253,430,Matt Miazga,USA,DF,FC Cincinnati,29-011,1995,15.7,0,10,2,20.0,0.64,0.13,0.0,0.0,21.0,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+ea95d7a6,431,Micael,BRA,DF,Dynamo FC,23-353,2000,21.8,0,9,1,11.1,0.41,0.05,0.0,0.0,16.4,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+151ca25f,432,Benji Michel,USA,FW,RSL,26-281,1997,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+98cd66a3,433,Novak Mićović,SRB,GK,LA Galaxy,22-279,2001,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+83cf9719,434,Djordje Mihailovic,USA,MF,Rapids,25-263,1998,20.4,10,36,15,41.7,1.76,0.73,0.19,0.47,21.4,13,3,4,8.7,5.0,0.15,1.3,2.0,Matches,USA-Major League Soccer,24-25
+c54638ba,435,Jovan Mijatović,SRB,"FW,MF",NYCFC,19-019,2005,2.7,0,7,0,0.0,2.64,0.0,0.0,,15.2,0,0,0,0.9,0.9,0.13,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+c0593f5d,436,Eric Miller,USA,DF,Portland Timbers,31-197,1993,10.4,1,5,2,40.0,0.48,0.19,0.2,0.5,10.2,0,0,0,0.3,0.3,0.07,0.7,0.7,Matches,USA-Major League Soccer,24-25
+0646bd8a,437,Kamal Miller,CAN,DF,Portland Timbers,27-075,1997,15.3,0,7,0,0.0,0.46,0.0,0.0,,15.5,0,0,0,0.6,0.6,0.09,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+6cb5be4f,438,Peyton Miller,USA,"DF,MF",NE Revolution,17-076,2007,1.1,0,2,0,0.0,1.84,0.0,0.0,,17.2,0,0,0,0.2,0.2,0.12,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+7827a6b3,439,Tyler Miller,USA,GK,D.C. United,31-140,1993,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+574a5662,440,Georgi Minoungou,CIV,FW,Seattle,22-005,2002,1.1,0,3,0,0.0,2.84,0.0,0.0,,11.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+193b60a6,441,Roald Mitchell,USA,FW,NY Red Bulls,21-199,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+85430bbc,442,Shakur Mohammed,GHA,"MF,FW",Orlando City,20-338,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+3b9f859b,443,Shaq Moore,USA,DF,Nashville,27-271,1996,12.0,1,13,5,38.5,1.08,0.42,0.08,0.2,19.4,0,0,0,1.0,1.0,0.07,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f4b0ea46,444,Felipe Mora,CHI,FW,Portland Timbers,30-363,1993,14.4,11,40,17,42.5,2.77,1.18,0.25,0.59,11.7,0,1,1,9.9,9.1,0.23,1.1,0.9,Matches,USA-Major League Soccer,24-25
+ff45add5,445,Alfredo Morales,USA,MF,SJ Earthquakes,34-079,1990,6.1,0,5,1,20.0,0.82,0.16,0.0,0.0,10.4,0,0,0,0.5,0.5,0.1,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+2fb02c65,446,Efrain Morales,BOL,DF,Atlanta Utd,20-148,2004,2.7,0,3,1,33.3,1.11,0.37,0.0,0.0,7.9,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+f99f37fc,447,Maximiliano Moralez,ARG,"MF,FW",NYCFC,37-154,1987,3.1,0,5,2,40.0,1.62,0.65,0.0,0.0,16.2,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+f10983ae,448,Steven Moreira,CPV,DF,Crew,29-352,1994,18.4,2,6,3,50.0,0.33,0.16,0.33,0.67,21.0,0,0,0,1.1,1.1,0.19,0.9,0.9,Matches,USA-Major League Soccer,24-25
+3261d0e4,449,Santiago Moreno,COL,"FW,MF",Portland Timbers,24-100,2000,19.8,6,39,14,35.9,1.97,0.71,0.15,0.43,18.6,0,0,0,3.4,3.4,0.09,2.6,2.6,Matches,USA-Major League Soccer,24-25
+b675e328,450,Lewis Morgan,SCO,"FW,MF",NY Red Bulls,27-304,1996,18.8,12,64,26,40.6,3.4,1.38,0.17,0.42,17.1,0,1,2,9.4,7.9,0.12,2.6,3.1,Matches,USA-Major League Soccer,24-25
+3778339c,451,Aidan Morris,USA,MF,Crew,22-257,2001,14.2,2,20,5,25.0,1.41,0.35,0.1,0.4,23.3,0,0,0,2.0,2.0,0.1,0.0,0.0,Matches,USA-Major League Soccer,24-25
+bd298d0d,452,Jordan Morris,USA,FW,Seattle,29-278,1994,22.2,9,40,20,50.0,1.8,0.9,0.23,0.45,11.5,0,0,0,6.7,6.7,0.17,2.3,2.3,Matches,USA-Major League Soccer,24-25
+15cda5f6,453,Edwin Mosquera,COL,"FW,MF",Atlanta Utd,23-033,2001,4.5,0,11,3,27.3,2.45,0.67,0.0,0.0,15.2,0,0,0,1.3,1.3,0.12,-1.3,-1.3,Matches,USA-Major League Soccer,24-25
+1ee0513b,454,Jean Mota,BRA,MF,Inter Miami,30-289,1993,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ed42a43f,455,Cole Mrowka,USA,MF,Crew,18-115,2006,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a5334099,456,Chris Mueller,USA,"FW,MF",Fire,27-336,1996,10.7,0,14,5,35.7,1.3,0.47,0.0,0.0,18.4,1,0,0,0.9,0.9,0.06,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+87fe8526,457,Hany Mukhtar,GER,"MF,FW",Nashville,29-131,1995,21.8,5,67,16,23.9,3.08,0.74,0.03,0.13,22.9,5,3,4,7.2,4.0,0.06,-2.2,-2.0,Matches,USA-Major League Soccer,24-25
+6a7a3769,458,Luis Müller,GER,"FW,MF",LAFC,23-169,2001,0.1,0,1,1,100.0,11.25,11.25,0.0,0.0,16.8,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ce44f0de,459,Daniel Munie,USA,DF,SJ Earthquakes,24-171,2000,8.4,0,5,1,20.0,0.6,0.12,0.0,0.0,10.2,0,0,0,0.6,0.6,0.12,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+eb2fe5b6,460,Luis Muriel,COL,FW,Orlando City,33-105,1991,14.7,3,45,14,31.1,3.07,0.95,0.04,0.14,23.1,3,1,1,3.6,2.8,0.06,-0.6,-0.8,Matches,USA-Major League Soccer,24-25
+c6d233e3,461,Ian Murphy,USA,DF,FC Cincinnati,24-196,2000,20.2,0,1,0,0.0,0.05,0.0,0.0,,5.7,0,0,0,0.1,0.1,0.11,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+a1f61bdf,462,Jacob Murrell,USA,"FW,MF",D.C. United,20-123,2004,8.5,1,24,7,29.2,2.82,0.82,0.04,0.14,15.8,0,0,0,2.4,2.4,0.1,-1.4,-1.4,Matches,USA-Major League Soccer,24-25
+4567a0b4,463,Petar Musa,CRO,FW,FC Dallas,26-148,1998,20.3,13,68,24,35.3,3.34,1.18,0.18,0.5,18.5,1,1,1,8.4,7.6,0.11,4.6,4.4,Matches,USA-Major League Soccer,24-25
+925a2703,464,Daniel Musovski,USA,"FW,MF",Seattle,28-243,1995,5.5,1,13,7,53.8,2.34,1.26,0.08,0.14,12.4,0,0,0,1.8,1.8,0.14,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+2c1025bf,465,Alex Muyl,USA,"FW,DF",Nashville,28-304,1995,17.9,1,18,4,22.2,1.01,0.22,0.06,0.25,14.7,0,0,0,2.0,2.0,0.11,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+bf7ba1d8,466,Tristan Muyumba,,MF,Atlanta Utd,27-145,1997,21.2,0,26,1,3.8,1.22,0.05,0.0,0.0,20.4,0,0,0,1.3,1.3,0.05,-1.3,-1.3,Matches,USA-Major League Soccer,24-25
+6219c704,467,Darlington Nagbe,USA,MF,Crew,34-011,1990,18.7,0,3,1,33.3,0.16,0.05,0.0,0.0,26.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+61c628be,468,Federico Navarro,ARG,MF,Fire,24-143,2000,4.8,0,2,1,50.0,0.41,0.21,0.0,0.0,12.1,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+4b5ab509,469,Rafael Navarro,BRA,FW,Rapids,24-107,2000,22.9,11,58,24,41.4,2.53,1.05,0.12,0.29,16.2,0,4,7,12.7,7.2,0.12,-1.7,-0.2,Matches,USA-Major League Soccer,24-25
+ca1e91a1,470,Jalen Neal,USA,DF,LA Galaxy,20-341,2003,11.4,0,1,0,0.0,0.09,0.0,0.0,,11.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,USA-Major League Soccer,24-25
+24f4dd87,471,Dylan Nealis,USA,DF,NY Red Bulls,26-000,1998,20.2,0,23,3,13.0,1.14,0.15,0.0,0.0,17.3,0,0,0,1.2,1.2,0.05,-1.2,-1.2,Matches,USA-Major League Soccer,24-25
+8c1b17b3,472,Sean Nealis,USA,DF,NY Red Bulls,27-199,1997,19.5,0,14,3,21.4,0.72,0.15,0.0,0.0,10.3,0,0,0,1.0,1.0,0.07,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+a61d2c1a,473,Franco Negri,ARG,DF,Inter Miami,29-161,1995,6.8,0,1,0,0.0,0.15,0.0,0.0,,24.4,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,USA-Major League Soccer,24-25
+df8c4d49,474,John Nelson,USA,DF,LA Galaxy,26-019,1998,6.3,0,1,0,0.0,0.16,0.0,0.0,,36.9,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2b5801d0,475,Jake Nerwinski,USA,DF,St. Louis,29-287,1994,2.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+de7a0fe6,476,Serge Ngoma,USA,"MF,FW",NY Red Bulls,19-021,2005,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c562c5b4,477,Joakim Nilsson,SWE,DF,St. Louis,30-175,1994,10.7,1,5,1,20.0,0.47,0.09,0.2,1.0,12.7,0,0,0,0.5,0.5,0.09,0.5,0.5,Matches,USA-Major League Soccer,24-25
+3391e359,478,Nolan Norris,USA,MF,FC Dallas,19-164,2005,2.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+bcbc53d5,479,Tsiki Ntsabeleng,RSA,"MF,FW",FC Dallas,26-172,1998,8.4,0,3,0,0.0,0.36,0.0,0.0,,18.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+897c8066,480,Obinna Nwobodo,NGA,MF,FC Cincinnati,27-244,1996,18.5,0,9,3,33.3,0.49,0.16,0.0,0.0,25.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+09d33255,481,Moses Nyeman,USA,MF,Minnesota Utd,20-268,2003,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2318370d,482,Aidan O'Connor,USA,DF,NY Red Bulls,22-297,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+729f8330,483,Rory O'Driscoll,USA,"FW,MF",Minnesota Utd,24-165,2000,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a62a56b4,484,Shane O'Neill,USA,DF,Toronto FC,30-332,1993,8.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+72a0f655,485,Kevin O'Toole,USA,DF,NYCFC,25-229,1998,19.0,1,14,3,21.4,0.74,0.16,0.07,0.33,18.7,0,0,0,0.9,0.9,0.06,0.1,0.1,Matches,USA-Major League Soccer,24-25
+1471b2a8,486,Jáder Obrian,COL,"FW,MF",Austin,29-073,1995,19.3,5,23,8,34.8,1.19,0.42,0.22,0.63,14.2,0,0,0,3.1,3.1,0.13,1.9,1.9,Matches,USA-Major League Soccer,24-25
+0dfc20ce,487,Agustin Ojeda,ARG,FW,NYCFC,20-041,2004,8.7,3,20,9,45.0,2.29,1.03,0.15,0.33,15.4,0,0,0,3.8,3.8,0.19,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+60953af0,488,Braian Ojeda,PAR,MF,RSL,24-033,2000,22.3,2,25,9,36.0,1.12,0.4,0.08,0.22,21.5,0,0,0,1.7,1.7,0.07,0.3,0.3,Matches,USA-Major League Soccer,24-25
+016a7f95,489,Martín Ojeda,ARG,"MF,FW",Orlando City,25-246,1998,15.5,3,40,15,37.5,2.58,0.97,0.08,0.2,19.8,4,0,0,3.3,3.3,0.08,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+079dc403,490,Cristian Olivera,URU,FW,LAFC,22-104,2002,15.7,5,52,24,46.2,3.31,1.53,0.1,0.21,18.5,0,0,0,6.5,6.5,0.12,-1.5,-1.5,Matches,USA-Major League Soccer,24-25
+aeab5ed2,491,Christopher Olney,USA,MF,Philadelphia,17-227,2006,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+950ef017,492,Tani Oluwaseyi,CAN,FW,Minnesota Utd,24-076,2000,8.9,8,28,14,50.0,3.13,1.57,0.29,0.57,12.0,0,0,0,7.1,7.1,0.25,0.9,0.9,Matches,USA-Major League Soccer,24-25
+cd44ba68,493,Wyatt Omsberg,USA,DF,Fire,28-313,1995,4.0,0,3,0,0.0,0.74,0.0,0.0,,9.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+226a288e,494,Kwadwo Opoku,GHA,"MF,FW",CF Montréal,23-017,2001,3.5,1,10,4,40.0,2.84,1.14,0.1,0.25,16.5,0,0,0,1.9,1.9,0.19,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+a9094a3d,495,Nathan Ordaz,SLV,"FW,MF",LAFC,20-200,2004,2.8,1,6,3,50.0,2.17,1.08,0.17,0.33,8.9,0,0,0,2.0,2.0,0.34,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+53ae4b5e,496,Luca Orellano,ARG,"DF,MF",FC Cincinnati,24-130,2000,21.5,5,60,26,43.3,2.78,1.21,0.08,0.19,22.2,6,0,0,5.3,5.3,0.09,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+8377ba6a,497,Prince Osei Owusu,GER,FW,Toronto FC,27-205,1997,16.2,6,35,14,40.0,2.16,0.86,0.17,0.43,10.6,0,0,0,7.0,7.0,0.2,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+70106ff6,498,Jonathan Osorio,CAN,"MF,FW",Toronto FC,32-048,1992,15.1,1,10,5,50.0,0.66,0.33,0.1,0.2,17.1,0,0,0,1.5,1.5,0.15,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+3ba95f20,499,Tomáš Ostrák,CZE,MF,St. Louis,24-176,2000,7.7,1,17,5,29.4,2.22,0.65,0.06,0.2,24.1,0,0,0,1.2,1.2,0.07,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+67cbc8e7,500,Javier Otero,VEN,GK,Orlando City,21-255,2002,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+31faf295,501,Bryan Oviedo,CRC,DF,RSL,34-163,1990,7.1,0,3,0,0.0,0.43,0.0,0.0,,24.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+004b090e,502,Devin Padelford,USA,DF,Minnesota Utd,21-209,2003,16.8,0,3,1,33.3,0.18,0.06,0.0,0.0,8.3,0,0,0,0.5,0.5,0.17,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+eb343262,503,Maarten Paes,NED,GK,FC Dallas,26-077,1998,25.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+88062e83,504,Joseph Paintsil,GHA,FW,LA Galaxy,26-180,1998,18.8,8,52,22,42.3,2.77,1.17,0.13,0.32,17.8,1,1,1,9.2,8.4,0.16,-1.2,-1.4,Matches,USA-Major League Soccer,24-25
+a80d92fe,505,Nelson Palacio,COL,MF,RSL,23-044,2001,6.0,1,6,1,16.7,0.99,0.17,0.17,1.0,26.4,0,0,0,0.2,0.2,0.03,0.8,0.8,Matches,USA-Major League Soccer,24-25
+19f8e480,506,Sergi Palencia,ESP,"DF,MF",LAFC,28-129,1996,18.3,0,2,2,100.0,0.11,0.11,0.0,0.0,30.9,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+121ca823,507,Jack Panayotou,USA,"FW,MF",NE Revolution,20-055,2004,2.9,0,4,0,0.0,1.37,0.0,0.0,,22.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+e93972ac,508,Elliot Panicco,USA,GK,Nashville,27-255,1996,3.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+901408ac,509,James Pantemis,CAN,GK,Portland Timbers,27-160,1997,12.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+0d8a2551,510,Cristhian Paredes,PAR,MF,Portland Timbers,26-073,1998,12.6,0,9,5,55.6,0.71,0.4,0.0,0.0,20.0,0,0,0,0.6,0.6,0.07,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+6dbc74d6,511,Isaiah Parente,USA,MF,LA Galaxy,24-136,2000,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4988a44d,512,Tim Parker,USA,DF,St. Louis,31-158,1993,19.9,0,12,3,25.0,0.6,0.15,0.0,0.0,9.0,0,0,0,1.5,1.5,0.12,-1.5,-1.5,Matches,USA-Major League Soccer,24-25
+77986763,513,Keaton Parks,USA,MF,NYCFC,26-359,1997,20.2,2,18,4,22.2,0.89,0.2,0.11,0.5,14.8,0,0,0,2.0,2.0,0.11,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b96aa1d6,514,João Paulo Mior,BRA,MF,Seattle,33-144,1991,13.5,0,20,4,20.0,1.49,0.3,0.0,0.0,24.8,2,0,0,0.8,0.8,0.04,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+63d989ca,515,João Pedro,BRA,DF,Charlotte,21-138,2003,5.1,0,3,0,0.0,0.59,0.0,0.0,,31.8,1,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+9d9e69df,516,Amahl Pellegrino,NOR,FW,SJ Earthquakes,34-042,1990,14.6,5,33,12,36.4,2.25,0.82,0.15,0.42,14.1,0,0,0,5.9,5.9,0.18,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+7af31216,517,Matti Peltola,FIN,"MF,DF",D.C. United,22-027,2002,19.1,0,10,0,0.0,0.52,0.0,0.0,,27.0,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+7e1dbecf,518,Andrés Perea,USA,MF,NYCFC,23-259,2000,10.4,2,14,4,28.6,1.35,0.39,0.14,0.5,16.5,0,0,0,2.2,2.2,0.15,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+b8862e65,519,Daniel Pereira,VEN,MF,Austin,24-016,2000,16.6,0,9,2,22.2,0.54,0.12,0.0,0.0,25.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+41e57408,520,Jonathan Perez,MEX,"FW,MF",LA Galaxy,21-194,2003,1.5,0,4,1,25.0,2.71,0.68,0.0,0.0,16.5,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+6f546721,521,Nikola Petković,SRB,MF,Charlotte,21-158,2003,5.6,1,13,4,30.8,2.34,0.72,0.08,0.25,19.6,0,0,0,1.2,1.2,0.09,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+90f3beec,522,Raoul Petretta,ITA,DF,Toronto FC,27-128,1997,16.8,1,11,2,18.2,0.66,0.12,0.09,0.5,17.4,0,0,0,0.8,0.8,0.08,0.2,0.2,Matches,USA-Major League Soccer,24-25
+dbaa10c0,523,Fafà Picault,HAI,"FW,MF",Vancouver W'caps,33-158,1991,12.9,8,35,14,40.0,2.71,1.08,0.23,0.57,13.7,1,0,0,6.7,6.7,0.19,1.3,1.3,Matches,USA-Major League Soccer,24-25
+2f5f098b,524,Kayden Pierre,USA,DF,Sporting KC,21-165,2003,5.0,0,1,0,0.0,0.2,0.0,0.0,,12.8,0,0,0,0.1,0.1,0.1,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+bc33c73b,525,Samuel Piette,CAN,MF,CF Montréal,29-261,1994,15.7,1,8,1,12.5,0.51,0.06,0.13,1.0,16.8,0,0,0,1.3,1.3,0.17,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+e0c17cde,526,Mauricio Pineda,USA,"DF,MF",Fire,26-287,1997,12.1,1,4,1,25.0,0.33,0.08,0.25,1.0,19.8,0,0,0,0.2,0.2,0.06,0.8,0.8,Matches,USA-Major League Soccer,24-25
+8f5eb74f,527,Malik Pinto,USA,MF,FC Cincinnati,21-356,2002,1.7,0,1,0,0.0,0.6,0.0,0.0,,18.1,0,0,0,0.0,0.0,0.05,0.0,0.0,Matches,USA-Major League Soccer,24-25
+17205abf,528,Gabriel Pirani,BRA,"MF,FW",D.C. United,22-109,2002,10.1,2,29,8,27.6,2.88,0.79,0.07,0.25,17.1,0,0,0,2.4,2.4,0.08,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+d1d418f8,529,Matt Polster,USA,MF,NE Revolution,31-052,1993,20.0,0,6,2,33.3,0.3,0.1,0.0,0.0,22.0,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+b7cc83e3,530,Célio Pompeu,BRA,"FW,MF",St. Louis,24-233,1999,13.8,3,25,13,52.0,1.81,0.94,0.12,0.23,19.8,1,0,0,1.3,1.3,0.05,1.7,1.7,Matches,USA-Major League Soccer,24-25
+c1f0fb45,531,Paxton Pomykal,USA,MF,FC Dallas,24-226,1999,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ccbbe661,532,Ezequiel Ponce,ARG,FW,Dynamo FC,27-123,1997,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+730d6dad,533,Tomas Pondeca,USA,MF,FC Dallas,22-294,2001,1.3,0,1,0,0.0,0.78,0.0,0.0,,33.0,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+2f91124d,534,Alvas Powell,JAM,DF,FC Cincinnati,30-012,1994,4.6,0,2,2,100.0,0.44,0.44,0.0,0.0,11.7,0,0,0,0.2,0.2,0.09,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+acb3e899,535,Ralph Priso-Mbongue,CAN,"MF,FW",Vancouver W'caps,21-363,2002,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4fd77159,536,Andrew Privett,USA,DF,Charlotte,23-363,2000,24.8,0,9,2,22.2,0.36,0.08,0.0,0.0,12.4,0,0,0,0.8,0.8,0.09,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+f090a37a,537,Riqui Puig,ESP,MF,LA Galaxy,24-352,1999,21.2,8,71,24,33.8,3.35,1.13,0.1,0.29,22.5,1,1,2,5.9,4.4,0.06,2.1,2.6,Matches,USA-Major League Soccer,24-25
+0745b37d,538,Teemu Pukki,FIN,FW,Minnesota Utd,34-123,1990,9.7,4,32,12,37.5,3.29,1.23,0.13,0.33,16.4,0,0,0,3.7,3.7,0.11,0.3,0.3,Matches,USA-Major League Soccer,24-25
+b3085df7,539,Alan Pulido,MEX,"FW,MF",Sporting KC,33-144,1991,17.1,4,28,10,35.7,1.64,0.58,0.14,0.4,17.6,0,0,0,3.1,3.1,0.11,0.9,0.9,Matches,USA-Major League Soccer,24-25
+6b306c92,540,John Pulskamp,USA,GK,Sporting KC,23-102,2001,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ad411288,541,Philip Quinton,USA,DF,Crew,24-257,1999,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ad411288,542,Philip Quinton,USA,DF,RSL,24-257,1999,6.7,0,3,0,0.0,0.45,0.0,0.0,,17.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+b5dd3469,543,Nemanja Radoja,SRB,MF,Sporting KC,31-175,1993,23.1,1,14,5,35.7,0.61,0.22,0.07,0.2,15.2,0,0,0,1.4,1.4,0.1,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+ca9ccbf2,544,Jeremy Rafanello,USA,MF,Philadelphia,24-107,2000,3.4,0,6,2,33.3,1.78,0.59,0.0,0.0,24.2,1,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+a3d67f70,545,Jackson Ragen,USA,DF,Seattle,25-310,1998,23.2,1,11,1,9.1,0.47,0.04,0.09,1.0,12.8,0,0,0,0.8,0.8,0.08,0.2,0.2,Matches,USA-Major League Soccer,24-25
+b4caa0c5,546,Brooklyn Raines,USA,"MF,FW",Dynamo FC,19-141,2005,2.8,0,1,0,0.0,0.36,0.0,0.0,,26.6,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches,USA-Major League Soccer,24-25
+0e8a1f8c,547,Alonso Ramírez,MEX,MF,Austin,22-345,2001,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+9f925166,548,Anthony Ramirez,USA,MF,FC Dallas,18-221,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+316d5521,549,Christian Ramirez,USA,"MF,FW",Crew,33-117,1991,10.7,7,32,16,50.0,2.99,1.5,0.22,0.44,15.8,0,0,0,5.4,5.4,0.18,1.6,1.6,Matches,USA-Major League Soccer,24-25
+d85152ae,550,Rubén Ramos,USA,"FW,MF",LA Galaxy,17-190,2007,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f006a9b3,551,Ryan Raposo,CAN,"DF,MF",Vancouver W'caps,25-147,1999,13.5,3,12,5,41.7,0.89,0.37,0.25,0.6,12.5,0,0,0,1.5,1.5,0.12,1.5,1.5,Matches,USA-Major League Soccer,24-25
+7ad32ae1,552,Henrich Ravas,SVK,GK,NE Revolution,26-349,1997,8.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b7b9c8ce,553,Federico Redondo,ARG,MF,Inter Miami,21-194,2003,6.9,2,8,3,37.5,1.15,0.43,0.25,0.67,20.0,0,0,0,1.0,1.0,0.13,1.0,1.0,Matches,USA-Major League Soccer,24-25
+24ec625a,554,Jayden Reid,USA,DF,St. Louis,22-335,2001,5.2,0,2,0,0.0,0.39,0.0,0.0,,26.3,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+36ab14f5,555,Andrés Reyes,COL,DF,NY Red Bulls,24-326,1999,10.5,1,4,1,25.0,0.38,0.1,0.25,1.0,10.7,0,0,0,0.2,0.2,0.06,0.8,0.8,Matches,USA-Major League Soccer,24-25
+b7a764a8,556,Justin Reynolds,USA,DF,Fire,19-361,2004,0.1,0,1,0,0.0,18.0,0.0,0.0,,24.1,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches,USA-Major League Soccer,24-25
+614b26e3,557,Emanuel Reynoso,ARG,MF,Minnesota Utd,28-257,1995,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+d9178ea2,558,Spencer Richey,USA,GK,Fire,32-061,1992,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+e46ee2e9,559,Will Richmond,USA,FW,SJ Earthquakes,24-115,2000,0.0,0,1,0,0.0,45.0,0.0,0.0,,12.8,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches,USA-Major League Soccer,24-25
+125b66d4,560,Andrew Rick,USA,GK,Philadelphia,18-182,2006,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c4bf0bb9,561,Jamar Ricketts,USA,MF,SJ Earthquakes,22-280,2001,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a7f6b9c4,562,Kalani Rienzi,USA,"DF,FW",Seattle,22-033,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a1216563,563,Emiliano Rigoni,ARG,FW,Austin,31-177,1993,7.8,1,12,3,25.0,1.54,0.38,0.08,0.33,19.7,1,0,0,0.9,0.9,0.07,0.1,0.1,Matches,USA-Major League Soccer,24-25
+6c1221d6,564,Alexander Ring,FIN,MF,Austin,33-112,1991,21.9,2,23,5,21.7,1.05,0.23,0.04,0.2,18.0,1,1,1,2.7,1.9,0.08,-0.7,-0.9,Matches,USA-Major League Soccer,24-25
+c70b221c,565,Birk Risa,NOR,DF,NYCFC,26-168,1998,20.6,0,5,1,20.0,0.24,0.05,0.0,0.0,23.9,2,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+782a95d9,566,Miles Robinson,USA,DF,FC Cincinnati,27-138,1997,16.8,1,6,1,16.7,0.36,0.06,0.17,1.0,10.7,0,0,0,0.5,0.5,0.09,0.5,0.5,Matches,USA-Major League Soccer,24-25
+5f011e05,567,Stian Rode Gregersen,NOR,DF,Atlanta Utd,29-074,1995,10.7,2,7,4,57.1,0.65,0.37,0.29,0.5,8.9,0,0,0,0.7,0.7,0.1,1.3,1.3,Matches,USA-Major League Soccer,24-25
+67f5e064,568,Rodrigues,BRA,DF,SJ Earthquakes,26-294,1997,22.6,3,18,7,38.9,0.79,0.31,0.17,0.43,10.2,0,0,0,2.6,2.6,0.14,0.4,0.4,Matches,USA-Major League Soccer,24-25
+86ca9bca,569,Jonathan Rodríguez,URU,FW,Portland Timbers,31-024,1993,19.9,12,62,28,45.2,3.11,1.41,0.18,0.39,14.3,1,1,1,9.3,8.5,0.14,2.7,2.5,Matches,USA-Major League Soccer,24-25
+c075b5f0,570,Martín Rodríguez,CHI,MF,D.C. United,29-360,1994,8.1,1,4,1,25.0,0.5,0.12,0.25,1.0,23.1,1,0,0,0.2,0.2,0.06,0.8,0.8,Matches,USA-Major League Soccer,24-25
+fc6c6b2b,571,Memo Rodriguez,USA,MF,Sporting KC,28-216,1995,13.3,2,21,6,28.6,1.58,0.45,0.1,0.33,25.9,1,0,0,0.8,0.8,0.04,1.2,1.2,Matches,USA-Major League Soccer,24-25
+86dff811,572,Santiago Rodríguez,URU,"MF,FW",NYCFC,24-204,2000,23.1,8,62,20,32.3,2.68,0.87,0.1,0.3,22.5,11,2,2,6.9,5.3,0.09,1.1,0.7,Matches,USA-Major League Soccer,24-25
+f2416544,573,Matías Rojas,PAR,"MF,FW",Inter Miami,28-270,1995,7.2,4,15,9,60.0,2.07,1.24,0.27,0.44,27.1,3,0,0,1.3,1.3,0.08,2.7,2.7,Matches,USA-Major League Soccer,24-25
+1255a82a,574,Alex Roldan,SLV,DF,Seattle,28-002,1996,16.4,1,13,2,15.4,0.79,0.12,0.08,0.5,20.7,1,0,0,1.4,1.4,0.11,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+48875649,575,Cristian Roldan,USA,"MF,DF",Seattle,29-057,1995,22.7,1,19,5,26.3,0.84,0.22,0.05,0.2,18.4,0,0,0,2.0,2.0,0.1,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+8c141c23,576,Kage Romanshyn,USA,FW,Minnesota Utd,19-041,2005,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+b7b6e781,577,David Romney,USA,DF,NE Revolution,31-048,1993,14.6,0,5,2,40.0,0.34,0.14,0.0,0.0,14.0,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+1b804500,578,Connor Ronan,IRL,MF,Rapids,26-146,1998,12.6,0,6,2,33.3,0.48,0.16,0.0,0.0,28.8,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+6a29d06b,579,Joseph Rosales,HON,"DF,MF",Minnesota Utd,23-267,2000,19.1,0,22,9,40.9,1.15,0.47,0.0,0.0,25.5,3,0,1,1.6,0.9,0.04,-1.6,-0.9,Matches,USA-Major League Soccer,24-25
+f940c69e,580,Keegan Rosenberry,USA,DF,Rapids,30-232,1993,22.7,0,14,2,14.3,0.62,0.09,0.0,0.0,18.4,0,0,0,0.7,0.7,0.05,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+1c886b0e,581,Daniel Rosero,COL,DF,Sporting KC,30-298,1993,17.0,2,7,3,42.9,0.41,0.18,0.29,0.67,8.0,0,0,0,1.0,1.0,0.14,1.0,1.0,Matches,USA-Major League Soccer,24-25
+a81dba8c,582,Diego Rossi,URU,"MF,FW",Crew,26-147,1998,21.0,9,50,20,40.0,2.38,0.95,0.16,0.4,15.8,2,1,2,8.6,7.0,0.14,0.4,1.0,Matches,USA-Major League Soccer,24-25
+5777eca0,583,Sigurd Rosted,NOR,DF,Toronto FC,30-008,1994,14.5,0,5,2,40.0,0.35,0.14,0.0,0.0,18.4,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+875e8269,584,Paul Rothrock,USA,"FW,MF",Seattle,25-203,1999,7.1,2,16,6,37.5,2.26,0.85,0.13,0.33,13.6,0,0,0,2.5,2.5,0.16,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+f2665f7c,585,Ruan,BRA,"DF,MF",CF Montréal,29-062,1995,22.1,2,10,2,20.0,0.45,0.09,0.2,1.0,11.6,0,0,0,1.9,1.9,0.19,0.1,0.1,Matches,USA-Major League Soccer,24-25
+3f082234,586,Diego Rubio,CHI,FW,Austin,31-076,1993,16.8,4,24,10,41.7,1.43,0.6,0.17,0.4,14.3,0,0,0,3.1,3.1,0.13,0.9,0.9,Matches,USA-Major League Soccer,24-25
+7a4296e1,587,Raúl Ruidíaz,PER,FW,Seattle,34-005,1990,14.5,8,70,26,37.1,4.81,1.79,0.06,0.15,22.0,4,4,4,9.0,5.8,0.09,-1.0,-1.8,Matches,USA-Major League Soccer,24-25
+14cbe9d4,588,David Ruiz,HON,"MF,DF",Inter Miami,20-173,2004,10.1,0,10,1,10.0,0.99,0.1,0.0,0.0,15.9,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+7368cd70,589,Pablo Ruíz,ARG,"MF,FW",RSL,25-223,1998,1.9,0,8,1,12.5,4.24,0.53,0.0,0.0,22.9,1,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+0adeafaa,590,Albert Rusnák,SVK,"MF,FW",Seattle,30-023,1994,19.6,4,38,13,34.2,1.94,0.66,0.05,0.15,21.8,5,2,2,4.5,2.9,0.08,-0.5,-0.9,Matches,USA-Major League Soccer,24-25
+a30e1562,591,Johnny Russell,SCO,FW,Sporting KC,34-113,1990,15.1,4,37,12,32.4,2.45,0.8,0.11,0.33,19.0,5,0,1,3.5,2.7,0.07,0.5,1.3,Matches,USA-Major League Soccer,24-25
+b33c6ed5,592,Jacen Russell-Rowe,CAN,"FW,MF",Crew,21-321,2002,8.1,3,23,9,39.1,2.83,1.11,0.13,0.33,15.9,0,0,0,1.9,1.9,0.08,1.1,1.1,Matches,USA-Major League Soccer,24-25
+4924d9bb,593,Ryan Sailor,USA,DF,Inter Miami,25-246,1998,3.4,0,2,0,0.0,0.59,0.0,0.0,,9.2,0,0,0,0.2,0.2,0.1,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+2928c948,594,Carle-Fred Sainte,HAI,MF,FC Dallas,21-356,2002,1.7,0,1,0,0.0,0.6,0.0,0.0,,26.5,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches,USA-Major League Soccer,24-25
+44cfc681,595,Nathan-Dylan Saliba,CAN,MF,CF Montréal,19-336,2004,10.6,0,12,2,16.7,1.13,0.19,0.0,0.0,25.4,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+6fcddf5f,596,Dániel Sallói,HUN,FW,Sporting KC,28-011,1996,18.5,2,38,15,39.5,2.05,0.81,0.05,0.13,20.2,0,0,0,2.0,2.0,0.05,0.0,0.0,Matches,USA-Major League Soccer,24-25
+4467ad95,597,Tobias Salquist,DEN,DF,Fire,29-073,1995,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+72979f65,598,Ilie Sánchez,ESP,MF,LAFC,33-252,1990,19.2,0,8,2,25.0,0.42,0.1,0.0,0.0,10.5,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+dccd127f,599,James Sands,USA,MF,NYCFC,24-024,2000,20.9,0,6,1,16.7,0.29,0.05,0.0,0.0,23.5,0,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+960a4473,600,William Sands,USA,DF,Crew,24-024,2000,2.8,0,2,2,100.0,0.7,0.7,0.0,0.0,13.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+f6fca8c6,601,Jeong Sangbin,KOR,"FW,MF",Minnesota Utd,22-120,2002,19.9,4,31,13,41.9,1.56,0.65,0.13,0.31,15.2,2,0,0,3.5,3.5,0.11,0.5,0.5,Matches,USA-Major League Soccer,24-25
+a930b263,602,Sergio Santos Gomes,BRA,FW,FC Cincinnati,29-330,1994,7.4,2,19,10,52.6,2.55,1.34,0.11,0.2,11.6,0,0,0,3.4,3.4,0.18,-1.4,-1.4,Matches,USA-Major League Soccer,24-25
+789da0f2,603,Pedro Santos,POR,"DF,MF",D.C. United,36-099,1988,13.8,2,19,7,36.8,1.38,0.51,0.11,0.29,22.6,2,0,0,0.8,0.8,0.04,1.2,1.2,Matches,USA-Major League Soccer,24-25
+c72a6057,604,Rafael Santos,BRA,"DF,FW",Orlando City,26-176,1998,14.7,0,8,2,25.0,0.54,0.14,0.0,0.0,27.6,0,0,0,0.2,0.2,0.02,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+c3e24517,605,Hayden Sargis,USA,DF,D.C. United,22-089,2002,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+39523553,606,Nick Scardina,USA,FW,Charlotte,23-038,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+5bb02df4,607,Rodrigo Schlegel,ARG,DF,Orlando City,27-118,1997,18.0,0,11,2,18.2,0.61,0.11,0.0,0.0,10.9,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+fa21bbc8,608,Tate Schmitt,USA,DF,Dynamo FC,27-063,1997,4.7,0,7,2,28.6,1.49,0.42,0.0,0.0,13.2,0,0,0,0.8,0.8,0.12,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+106bca06,609,Alessandro Schöpf,AUT,"MF,DF",Vancouver W'caps,30-174,1994,14.1,1,21,7,33.3,1.49,0.5,0.05,0.14,21.8,0,0,0,1.3,1.3,0.06,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+b8f47d7c,610,Patrick Schulte,USA,GK,Crew,23-139,2001,19.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+fe4f3b39,611,Tarik Scott,USA,FW,FC Dallas,19-098,2005,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+620ae69c,612,Dante Sealy,USA,"DF,MF",FC Dallas,21-104,2003,9.6,1,20,7,35.0,2.09,0.73,0.05,0.14,21.1,4,0,0,1.6,1.6,0.08,-0.6,-0.6,Matches,USA-Major League Soccer,24-25
+031097ba,613,Gabe Segal,USA,FW,Dynamo FC,23-074,2001,2.1,2,8,4,50.0,3.77,1.88,0.25,0.5,14.2,0,0,0,1.3,1.3,0.17,0.7,0.7,Matches,USA-Major League Soccer,24-25
+c70e3fe0,614,Eddie Segura,COL,"DF,MF",LAFC,27-179,1997,6.0,0,6,2,33.3,1.0,0.33,0.0,0.0,15.4,0,0,0,0.5,0.5,0.08,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+43ca2019,615,Amar Sejdic,USA,MF,Nashville,27-244,1996,3.2,0,4,2,50.0,1.25,0.63,0.0,0.0,23.3,0,0,0,0.3,0.3,0.07,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+2ead66a4,616,Oliver Semmle,GER,GK,Philadelphia,26-124,1998,15.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+339a2561,617,Jacob Shaffelburg,CAN,"FW,DF",Nashville,24-247,1999,11.7,1,16,4,25.0,1.37,0.34,0.06,0.25,19.6,0,0,0,1.4,1.4,0.09,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+6421ec64,618,Xherdan Shaqiri,SUI,"MF,FW",Fire,32-294,1991,8.2,2,6,2,33.3,0.73,0.24,0.0,0.0,39.9,1,2,2,1.8,0.2,0.03,0.2,-0.2,Matches,USA-Major League Soccer,24-25
+662cccf1,619,Charles Sharp,USA,FW,Toronto FC,23-037,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+df855e4b,620,Samuel Shashoua,ENG,MF,Minnesota Utd,25-078,1999,0.2,0,2,1,50.0,12.0,6.0,0.0,0.0,15.8,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+f935709c,621,Khiry Shelton,USA,DF,Sporting KC,31-034,1993,6.6,0,3,0,0.0,0.45,0.0,0.0,,19.7,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+b9596515,622,Marcelo Silva,URU,DF,RSL,35-131,1989,2.0,0,2,0,0.0,0.99,0.0,0.0,,10.7,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+0120b637,623,Tommy Silva,USA,DF,RSL,22-160,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+15d561fa,624,Xande Silva,POR,"FW,MF",Atlanta Utd,27-136,1997,14.2,2,37,19,51.4,2.6,1.33,0.05,0.11,18.0,0,0,0,2.4,2.4,0.06,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+5dc34eaa,625,Jonathan Sirois,CAN,GK,CF Montréal,23-033,2001,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+9c07bdc7,626,Jack Skahan,USA,"MF,FW",SJ Earthquakes,26-174,1998,7.3,1,19,9,47.4,2.59,1.23,0.05,0.11,16.9,0,0,0,2.5,2.5,0.13,-1.5,-1.5,Matches,USA-Major League Soccer,24-25
+f0d4e54d,627,Joseph Skinner,USA,FW,Nashville,21-124,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+7ee64741,628,Bartosz Slisz,POL,MF,Atlanta Utd,25-123,1999,17.9,1,16,3,18.8,0.89,0.17,0.06,0.33,24.3,1,0,0,0.7,0.7,0.04,0.3,0.3,Matches,USA-Major League Soccer,24-25
+1e78e7c5,629,Tyger Smalls,,FW,Charlotte,,,2.5,0,4,0,0.0,1.6,0.0,0.0,,14.9,0,0,0,0.7,0.7,0.17,-0.7,-0.7,Matches,USA-Major League Soccer,24-25
+c650c63c,630,Alec Smir,USA,GK,Minnesota Utd,25-108,1999,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c76c717c,631,Brad Smith,AUS,"FW,DF",Dynamo FC,30-112,1994,3.8,2,7,3,42.9,1.82,0.78,0.29,0.67,19.8,0,0,0,0.6,0.6,0.09,1.4,1.4,Matches,USA-Major League Soccer,24-25
+9e6b2ec3,632,Kyle Smith,USA,"DF,MF",Orlando City,32-203,1992,8.7,0,3,0,0.0,0.34,0.0,0.0,,15.7,0,0,0,0.5,0.5,0.16,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+09390bae,633,Mohammed Sofo,GHA,MF,NY Red Bulls,19-273,2004,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+50841bef,634,Joaquin Sosa,URU,DF,CF Montréal,22-202,2002,13.6,0,12,3,25.0,0.88,0.22,0.0,0.0,15.3,0,0,0,1.1,1.1,0.09,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+4e0afc5d,635,Arnaud Souquet,FRA,DF,Fire,32-169,1992,13.4,0,10,3,30.0,0.75,0.22,0.0,0.0,22.2,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+9fda5cd3,636,Ryan Spaulding,USA,"DF,MF",NE Revolution,25-324,1998,5.0,0,5,1,20.0,1.01,0.2,0.0,0.0,25.3,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+685576cf,637,Tyrese Spicer,,"DF,MF",Toronto FC,,,9.4,2,14,5,35.7,1.49,0.53,0.14,0.4,15.5,0,0,0,1.0,1.0,0.07,1.0,1.0,Matches,USA-Major League Soccer,24-25
+3f41d25f,638,Dayne St. Clair,CAN,GK,Minnesota Utd,27-082,1997,17.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f01df62c,639,Mason Stajduhar,USA,GK,Orlando City,26-241,1997,4.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+42130443,640,Zack Steffen,USA,GK,Rapids,29-119,1995,26.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+17c03c76,641,Daniel Steres,USA,DF,Dynamo FC,33-262,1990,9.7,1,6,2,33.3,0.62,0.21,0.17,0.5,16.8,0,0,0,0.4,0.4,0.06,0.6,0.6,Matches,USA-Major League Soccer,24-25
+7b84fa86,642,Kimani Stewart-Baynes,CAN,"MF,FW",Rapids,19-195,2005,1.1,0,1,0,0.0,0.94,0.0,0.0,,10.2,0,0,0,0.1,0.1,0.1,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+5d018899,643,Jared Stroud,USA,"MF,FW",D.C. United,28-020,1996,20.2,2,42,9,21.4,2.08,0.45,0.05,0.22,19.3,0,0,0,4.0,4.0,0.1,-2.0,-2.0,Matches,USA-Major League Soccer,24-25
+16000870,644,Peter Stroud,USA,"MF,FW",NY Red Bulls,22-098,2002,6.7,0,1,1,100.0,0.15,0.15,0.0,0.0,8.2,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+6a1940d5,645,Brad Stuver,USA,GK,Austin,33-105,1991,25.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a6154613,646,Luis Suárez,URU,FW,Inter Miami,37-188,1987,14.1,12,40,29,72.5,2.83,2.05,0.3,0.41,13.6,1,0,0,8.1,8.1,0.2,3.9,3.9,Matches,USA-Major League Soccer,24-25
+0ddabe9e,647,Cavan Sullivan,USA,FW,Philadelphia,14-306,2009,0.1,0,1,1,100.0,15.0,15.0,0.0,0.0,26.1,0,0,0,0.0,0.0,0.03,0.0,0.0,Matches,USA-Major League Soccer,24-25
+92f62cfe,648,Quinn Sullivan,USA,"MF,FW",Philadelphia,20-125,2004,19.9,3,56,19,33.9,2.82,0.96,0.05,0.16,20.4,0,0,0,2.9,2.9,0.05,0.1,0.1,Matches,USA-Major League Soccer,24-25
+e5a284aa,649,Lawson Sunderland,USA,MF,Inter Miami,22-266,2001,2.1,0,1,0,0.0,0.47,0.0,0.0,,24.8,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+b017b770,650,Sam Surridge,ENG,FW,Nashville,26-002,1998,17.5,8,41,16,39.0,2.34,0.91,0.2,0.5,11.4,0,0,0,7.2,7.2,0.18,0.8,0.8,Matches,USA-Major League Soccer,24-25
+9614b550,651,Erik Sviatchenko,DEN,DF,Dynamo FC,32-300,1991,17.2,0,26,11,42.3,1.51,0.64,0.0,0.0,13.9,0,0,0,1.2,1.2,0.05,-1.2,-1.2,Matches,USA-Major League Soccer,24-25
+41723204,652,Karol Świderski,POL,FW,Charlotte,27-189,1997,0.7,1,3,1,33.3,4.22,1.41,0.0,0.0,20.4,0,1,1,1.5,0.8,0.25,-0.5,-0.8,Matches,USA-Major League Soccer,24-25
+4a07ae31,653,Nkosi Tafari,USA,DF,FC Dallas,27-140,1997,20.3,2,15,6,40.0,0.74,0.3,0.13,0.33,13.4,0,0,0,0.9,0.9,0.06,1.1,1.1,Matches,USA-Major League Soccer,24-25
+52be0b7d,654,Yohei Takaoka,JPN,GK,Vancouver W'caps,28-136,1996,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+618ab91f,655,Strahinja Tanasijević,SRB,DF,NYCFC,27-048,1997,8.2,0,2,1,50.0,0.24,0.12,0.0,0.0,22.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+a1ed5354,656,Miguel Tapias,MEX,DF,Minnesota Utd,27-203,1997,18.1,0,9,1,11.1,0.5,0.06,0.0,0.0,7.7,0,0,0,1.0,1.0,0.11,-1.0,-1.0,Matches,USA-Major League Soccer,24-25
+c5487a34,657,Andrew Tarbell,USA,GK,Dynamo FC,30-297,1993,3.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+7505f7f1,658,Iuri Tavares,CPV,FW,Charlotte,23-144,2001,8.8,3,24,9,37.5,2.73,1.02,0.13,0.33,13.1,0,0,1,4.2,3.4,0.14,-1.2,-0.4,Matches,USA-Major League Soccer,24-25
+ed4dc7f4,659,D.J. Taylor,USA,"DF,MF",Minnesota Utd,26-339,1997,16.0,0,10,2,20.0,0.62,0.12,0.0,0.0,20.1,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+1fc0973f,660,Robert Taylor,FIN,FW,Inter Miami,29-283,1994,15.4,4,21,11,52.4,1.36,0.71,0.19,0.36,18.1,0,0,0,2.8,2.8,0.13,1.2,1.2,Matches,USA-Major League Soccer,24-25
+324509e2,661,Carlos Terán,COL,DF,Fire,23-310,2000,11.1,1,8,3,37.5,0.72,0.27,0.13,0.33,19.1,0,0,0,0.9,0.9,0.12,0.1,0.1,Matches,USA-Major League Soccer,24-25
+f956479d,662,Cedric Teuchert,GER,FW,St. Louis,27-198,1997,0.7,0,2,0,0.0,2.9,0.0,0.0,,18.0,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+f68ed3ba,663,Dylan Teves,USA,"MF,FW",Seattle,24-077,2000,1.0,1,1,1,100.0,1.01,1.01,1.0,1.0,10.0,0,0,0,0.5,0.5,0.47,0.5,0.5,Matches,USA-Major League Soccer,24-25
+ecca2f67,664,Jamal Thiaré,SEN,FW,Atlanta Utd,31-121,1993,8.0,5,18,11,61.1,2.25,1.38,0.28,0.45,10.5,0,0,0,4.1,4.1,0.23,0.9,0.9,Matches,USA-Major League Soccer,24-25
+1425ee30,665,Andrew Thomas,RUS,GK,Seattle,25-333,1998,4.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+df8e7b62,666,Erik Thommy,GER,"MF,FW",Sporting KC,29-345,1994,20.4,5,61,13,21.3,2.98,0.64,0.08,0.38,21.9,6,0,0,3.9,3.9,0.06,1.1,1.1,Matches,USA-Major League Soccer,24-25
+517bef8b,667,Kosi Thompson,CAN,"MF,DF",Toronto FC,21-185,2003,9.7,0,3,0,0.0,0.31,0.0,0.0,,26.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+5f6c69d8,668,Tommy Thompson,USA,DF,SJ Earthquakes,28-350,1995,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+a5bea1fb,669,Timmy Tillman,GER,MF,LAFC,25-208,1999,20.5,4,26,9,34.6,1.27,0.44,0.15,0.44,17.9,0,0,0,3.4,3.4,0.13,0.6,0.6,Matches,USA-Major League Soccer,24-25
+5e88c524,670,John Tolkin,USA,DF,NY Red Bulls,21-365,2002,17.6,1,10,3,30.0,0.57,0.17,0.1,0.33,25.7,4,0,0,0.5,0.5,0.05,0.5,0.5,Matches,USA-Major League Soccer,24-25
+0796512f,671,Nouhou Tolo,CMR,DF,Seattle,27-037,1997,17.7,0,10,2,20.0,0.56,0.11,0.0,0.0,25.4,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+4de3b2c0,672,Facundo Torres,URU,"FW,MF",Orlando City,24-108,2000,20.9,8,37,18,48.6,1.77,0.86,0.19,0.39,17.9,0,1,2,5.2,3.6,0.1,2.8,3.4,Matches,USA-Major League Soccer,24-25
+8bb174fc,673,Tomas Totland,NOR,DF,St. Louis,25-306,1998,22.4,2,17,7,41.2,0.76,0.31,0.12,0.29,20.2,1,0,0,1.7,1.7,0.1,0.3,0.3,Matches,USA-Major League Soccer,24-25
+0aa41f67,674,Mason Toye,USA,"FW,MF",CF Montréal,25-288,1998,5.3,1,7,4,57.1,1.32,0.76,0.14,0.25,22.9,0,0,0,1.1,1.1,0.16,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+9bf9391c,675,Wil Trapp,USA,MF,Minnesota Utd,31-197,1993,17.3,1,14,2,14.3,0.81,0.12,0.0,0.0,25.4,0,1,1,1.7,0.9,0.06,-0.7,-0.9,Matches,USA-Major League Soccer,24-25
+08b318c0,676,Jackson Travis,USA,DF,Rapids,20-158,2004,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+cb501677,677,Niko Tsakiris,USA,MF,SJ Earthquakes,19-041,2005,11.5,0,8,0,0.0,0.7,0.0,0.0,,22.6,0,0,0,0.5,0.5,0.06,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+56d6715c,678,Yutaro Tsukada,JPN,FW,Orlando City,23-002,2001,0.0,0,1,0,0.0,90.0,0.0,0.0,,12.9,0,0,0,0.0,0.0,0.05,0.0,0.0,Matches,USA-Major League Soccer,24-25
+0d32b115,679,Garrison Tubbs,USA,DF,D.C. United,22-164,2002,4.6,0,4,1,25.0,0.86,0.22,0.0,0.0,9.3,0,0,0,0.5,0.5,0.13,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+bf547c54,680,Bill Tuiloma,NZL,DF,Charlotte,29-125,1995,2.2,0,2,1,50.0,0.91,0.45,0.0,0.0,15.9,1,0,0,0.1,0.1,0.07,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+9ca4b140,681,Ema Twumasi,GHA,DF,FC Dallas,27-073,1997,12.5,0,2,0,0.0,0.16,0.0,0.0,,15.1,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+b004076a,682,Marinos Tzionis,CYP,"FW,MF",Sporting KC,23-014,2001,3.1,1,3,1,33.3,0.97,0.32,0.33,1.0,15.7,0,0,0,0.4,0.4,0.12,0.6,0.6,Matches,USA-Major League Soccer,24-25
+be84c466,683,Mikael Uhre,DEN,FW,Philadelphia,29-304,1994,15.4,6,34,14,41.2,2.21,0.91,0.18,0.43,13.7,0,0,0,6.1,6.1,0.18,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+d75f3980,684,Jere Uronen,FIN,DF,Charlotte,30-017,1994,19.6,0,8,3,37.5,0.41,0.15,0.0,0.0,25.0,4,0,0,0.5,0.5,0.06,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+b40424f1,685,Júnior Urso,BRA,MF,Charlotte,35-142,1989,6.6,0,5,1,20.0,0.76,0.15,0.0,0.0,15.4,0,0,0,0.4,0.4,0.08,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+93b56ba5,686,Leo Väisänen,FIN,DF,Austin,27-007,1997,8.9,0,3,2,66.7,0.34,0.23,0.0,0.0,8.9,0,0,0,0.3,0.3,0.08,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+3fbe573e,687,Jhojan Valencia,COL,MF,Austin,28-003,1996,12.1,0,5,1,20.0,0.41,0.08,0.0,0.0,25.8,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+790c93ea,688,Omar Valencia,PAN,MF,NY Red Bulls,20-052,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+f0d23e7b,689,Zarek Valentin,PUR,"DF,MF",Minnesota Utd,32-359,1991,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ca07c1c5,690,Gerardo Valenzuela,USA,"FW,MF",FC Cincinnati,20-093,2004,9.7,1,20,4,20.0,2.06,0.41,0.05,0.25,20.3,1,0,0,1.3,1.3,0.07,-0.3,-0.3,Matches,USA-Major League Soccer,24-25
+df076b73,691,Jefferson Valverde,ECU,DF,Dynamo FC,25-087,1999,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+d682f554,692,Dante Vanzeir,BEL,FW,NY Red Bulls,26-105,1998,16.6,2,38,10,26.3,2.28,0.6,0.05,0.2,14.2,1,0,0,6.5,6.5,0.17,-4.5,-4.5,Matches,USA-Major League Soccer,24-25
+ca4e65da,693,Alenis Vargas,HON,FW,Sporting KC,20-239,2003,5.5,2,10,5,50.0,1.83,0.91,0.2,0.4,13.4,0,0,0,0.8,0.8,0.08,1.2,1.2,Matches,USA-Major League Soccer,24-25
+758de7b4,694,Kerwin Vargas,COL,FW,Charlotte,22-210,2002,21.8,5,53,12,22.6,2.43,0.55,0.09,0.42,18.2,2,0,1,4.5,3.8,0.07,0.5,1.2,Matches,USA-Major League Soccer,24-25
+9cc1fde4,695,Obed Vargas,USA,"MF,FW",Seattle,18-360,2005,21.7,1,18,6,33.3,0.83,0.28,0.06,0.17,16.7,0,0,0,2.1,2.1,0.12,-1.1,-1.1,Matches,USA-Major League Soccer,24-25
+04e195ee,696,Indiana Vassilev,USA,"MF,FW",St. Louis,23-165,2001,18.5,3,34,7,20.6,1.84,0.38,0.09,0.43,18.4,5,0,0,3.4,3.4,0.1,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+80c718dd,697,Brayan Vera,COL,DF,RSL,25-197,1999,18.4,1,17,6,35.3,0.92,0.33,0.06,0.17,28.3,7,0,0,0.7,0.7,0.04,0.3,0.3,Matches,USA-Major League Soccer,24-25
+8409bad1,698,Oscar Verhoeven,USA,DF,SJ Earthquakes,18-060,2006,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+366609b6,699,Ranko Veselinović,SRB,DF,Vancouver W'caps,25-128,1999,20.7,2,9,3,33.3,0.43,0.14,0.22,0.67,11.1,0,0,0,0.7,0.7,0.08,1.3,1.3,Matches,USA-Major League Soccer,24-25
+6ef6e9ce,700,Jules-Anthony Vilsaint,CAN,"MF,FW",CF Montréal,21-206,2003,7.7,2,27,8,29.6,3.49,1.03,0.07,0.25,15.3,0,0,0,3.5,3.5,0.13,-1.5,-1.5,Matches,USA-Major League Soccer,24-25
+2d6e535f,701,Sam Vines,USA,DF,Rapids,25-060,1999,22.6,1,13,4,30.8,0.57,0.18,0.08,0.25,19.8,1,0,0,1.8,1.8,0.14,-0.8,-0.8,Matches,USA-Major League Soccer,24-25
+9c146b36,702,Pedro Vite,ECU,MF,Vancouver W'caps,22-143,2002,17.3,0,17,5,29.4,0.98,0.29,0.0,0.0,23.0,1,0,0,0.9,0.9,0.06,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+33d9d789,703,Robert Voloder,BIH,DF,Sporting KC,23-082,2001,12.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+bf4d31d3,704,Giacomo Vrioni,ALB,FW,NE Revolution,25-289,1998,17.6,8,52,25,48.1,2.95,1.42,0.15,0.32,15.0,0,0,0,7.4,7.4,0.14,0.6,0.6,Matches,USA-Major League Soccer,24-25
+fdc715d9,705,Kai Wagner,GER,DF,Philadelphia,27-166,1997,23.5,1,13,3,23.1,0.55,0.13,0.08,0.33,21.4,1,0,0,0.6,0.6,0.05,0.4,0.4,Matches,USA-Major League Soccer,24-25
+0984c5d5,706,Rémi Walter,FRA,MF,Sporting KC,29-095,1995,10.5,2,5,2,40.0,0.48,0.19,0.4,1.0,23.3,1,0,0,0.4,0.4,0.08,1.6,1.6,Matches,USA-Major League Soccer,24-25
+e0900238,707,Victor Wanyama,KEN,MF,CF Montréal,33-035,1991,4.5,0,2,0,0.0,0.44,0.0,0.0,,28.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+480d3bcc,708,Taylor Washington,USA,DF,Nashville,30-349,1993,6.4,0,1,0,0.0,0.16,0.0,0.0,,8.3,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+47ddcc22,709,Joel Waterman,CAN,DF,CF Montréal,28-188,1996,17.6,0,3,2,66.7,0.17,0.11,0.0,0.0,12.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+1c595d53,710,Akil Watts,USA,"DF,MF",St. Louis,24-177,2000,7.0,0,5,1,20.0,0.72,0.14,0.0,0.0,15.5,0,0,0,0.4,0.4,0.09,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+ae2ee5a5,711,Patrick Weah,LBR,FW,Minnesota Utd,20-238,2003,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ac106741,712,Marcelo Weigandt,ARG,DF,Inter Miami,24-201,2000,15.4,0,12,4,33.3,0.78,0.26,0.0,0.0,15.1,0,0,0,1.7,1.7,0.15,-1.7,-1.7,Matches,USA-Major League Soccer,24-25
+7c2c2c0b,713,Michael Wentzel,GER,DF,St. Louis,22-111,2002,1.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+495945ef,714,Ashley Westwood,ENG,MF,Charlotte,34-120,1990,24.0,2,6,2,33.3,0.25,0.08,0.33,1.0,21.4,2,0,0,0.6,0.6,0.09,1.4,1.4,Matches,USA-Major League Soccer,24-25
+54c948de,715,Brian White,USA,FW,Vancouver W'caps,28-178,1996,21.2,12,52,21,40.4,2.45,0.99,0.23,0.57,11.2,0,0,0,10.0,10.0,0.19,2.0,2.0,Matches,USA-Major League Soccer,24-25
+64796fe0,716,Caleb Wiley,USA,DF,Atlanta Utd,19-221,2004,20.9,1,8,4,50.0,0.38,0.19,0.13,0.25,23.3,0,0,0,0.3,0.3,0.04,0.7,0.7,Matches,USA-Major League Soccer,24-25
+c0a28fbd,717,Derrick Williams,IRL,DF,Atlanta Utd,31-195,1993,16.5,0,13,4,30.8,0.79,0.24,0.0,0.0,8.9,0,0,0,1.4,1.4,0.11,-1.4,-1.4,Matches,USA-Major League Soccer,24-25
+e0364352,718,Eryk Williamson,USA,"MF,FW",Portland Timbers,27-049,1997,9.7,2,8,5,62.5,0.82,0.51,0.25,0.4,12.5,1,0,0,1.4,1.4,0.18,0.6,0.6,Matches,USA-Major League Soccer,24-25
+467f09c8,719,Joe Willis,USA,GK,Nashville,35-355,1988,21.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+965fc36d,720,Bruno Wilson,POR,DF,SJ Earthquakes,27-216,1996,9.6,1,4,2,50.0,0.42,0.21,0.25,0.5,9.2,0,0,0,0.7,0.7,0.17,0.3,0.3,Matches,USA-Major League Soccer,24-25
+be42a291,721,Hannes Wolf,AUT,"FW,MF",NYCFC,25-105,1999,20.4,5,34,15,44.1,1.66,0.73,0.15,0.33,14.8,1,0,0,4.0,4.0,0.12,1.0,1.0,Matches,USA-Major League Soccer,24-25
+9edc70d6,722,Owen Wolff,USA,"FW,MF",Austin,19-213,2004,15.5,0,11,1,9.1,0.71,0.06,0.0,0.0,16.6,0,0,0,0.9,0.9,0.08,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+0985c282,723,Tyler Wolff,USA,"FW,MF",Atlanta Utd,21-168,2003,3.8,0,6,0,0.0,1.59,0.0,0.0,,13.4,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches,USA-Major League Soccer,24-25
+9853983f,724,Bobby Wood,USA,FW,NE Revolution,31-258,1992,2.4,1,7,1,14.3,2.89,0.41,0.14,1.0,10.6,0,0,0,0.9,0.9,0.13,0.1,0.1,Matches,USA-Major League Soccer,24-25
+b712e02d,725,Miki Yamane,JPN,DF,LA Galaxy,30-221,1993,24.5,0,4,0,0.0,0.16,0.0,0.0,,20.5,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+871961e8,726,Dominik Yankov,BUL,"MF,FW",CF Montréal,24-002,2000,7.3,2,13,6,46.2,1.78,0.82,0.15,0.33,15.6,0,0,0,2.0,2.0,0.15,0.0,0.0,Matches,USA-Major League Soccer,24-25
+63abd734,727,Darren Yapi,USA,"FW,MF",Rapids,19-254,2004,6.0,1,9,2,22.2,1.49,0.33,0.11,0.5,13.5,0,0,0,1.0,1.0,0.11,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ec646e88,728,William Yarbrough,USA,GK,SJ Earthquakes,35-132,1989,18.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+672f4300,729,Joshua Yaro,GHA,DF,St. Louis,29-255,1994,7.6,1,2,1,50.0,0.26,0.13,0.5,1.0,5.8,0,0,0,0.4,0.4,0.18,0.6,0.6,Matches,USA-Major League Soccer,24-25
+2eb09121,730,Dru Yearwood,ENG,MF,Nashville,24-164,2000,16.7,1,17,5,29.4,1.02,0.3,0.06,0.2,23.2,0,0,0,0.6,0.6,0.04,0.4,0.4,Matches,USA-Major League Soccer,24-25
+36292031,731,Yaw Yeboah,GHA,"DF,MF",Crew,27-124,1997,10.6,0,12,2,16.7,1.13,0.19,0.0,0.0,17.8,1,0,0,0.9,0.9,0.07,-0.9,-0.9,Matches,USA-Major League Soccer,24-25
+ae0a7ddf,732,DeAndre Yedlin,USA,DF,Inter Miami,31-021,1993,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+ae0a7ddf,733,DeAndre Yedlin,USA,DF,FC Cincinnati,31-021,1993,17.4,0,7,1,14.3,0.4,0.06,0.0,0.0,18.0,0,0,0,0.5,0.5,0.07,-0.5,-0.5,Matches,USA-Major League Soccer,24-25
+caffaf5a,734,Maya Yoshida,JPN,DF,LA Galaxy,35-341,1988,25.7,2,16,6,37.5,0.62,0.23,0.13,0.33,10.2,0,0,0,1.2,1.2,0.07,0.8,0.8,Matches,USA-Major League Soccer,24-25
+7dce16bf,735,Jackson Yueill,USA,MF,SJ Earthquakes,27-133,1997,21.3,0,16,3,18.8,0.75,0.14,0.0,0.0,21.2,0,0,0,1.3,1.3,0.08,-1.3,-1.3,Matches,USA-Major League Soccer,24-25
+09ae7f92,736,Gyasi Zardes,USA,FW,Austin,32-332,1991,10.5,3,22,7,31.8,2.1,0.67,0.14,0.43,11.8,0,0,0,3.1,3.1,0.14,-0.1,-0.1,Matches,USA-Major League Soccer,24-25
+edbfbb3f,737,Eriq Zavaleta,SLV,DF,LA Galaxy,31-363,1992,1.8,1,2,1,50.0,1.12,0.56,0.5,1.0,11.1,0,0,0,0.1,0.1,0.06,0.9,0.9,Matches,USA-Major League Soccer,24-25
+380ee265,738,Sean Zawadzki,USA,"MF,DF",Crew,24-100,2000,15.6,1,10,2,20.0,0.64,0.13,0.1,0.5,16.9,0,0,0,0.6,0.6,0.06,0.4,0.4,Matches,USA-Major League Soccer,24-25
+220fa883,739,Walker Zimmerman,USA,DF,Nashville,31-072,1993,12.4,1,7,2,28.6,0.56,0.16,0.14,0.5,9.6,0,0,0,0.6,0.6,0.09,0.4,0.4,Matches,USA-Major League Soccer,24-25
+e1e65f24,740,Rida Zouhir,CAN,"MF,DF",CF Montréal,20-250,2003,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches,USA-Major League Soccer,24-25
+c6f99e42,741,Dario Župarić,BIH,DF,Portland Timbers,32-088,1992,16.7,0,3,1,33.3,0.18,0.06,0.0,0.0,17.2,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches,USA-Major League Soccer,24-25
+b4f37ef6,742,Nökkvi Þórisson,ISL,"FW,MF",St. Louis,24-352,1999,9.7,3,39,10,25.6,4.01,1.03,0.08,0.3,13.5,0,0,0,4.8,4.8,0.12,-1.8,-1.8,Matches,USA-Major League Soccer,24-25
