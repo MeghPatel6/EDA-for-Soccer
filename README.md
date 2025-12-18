@@ -16,4 +16,6 @@ The dataset contains player-level shooting statistics, including:
 
 • Player position and team
 
+**For detailed analysis, see the EDA1.docx file.**
+
 
